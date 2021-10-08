@@ -1,0 +1,14 @@
+2021-10-01 10:58:58.872148, [WARN] Unable to simulate equation "Trader Stock". Doesn't seem like it's part of the model.
+2021-10-01 10:58:58.943431, [WARN] Unable to simulate equation "Trader Supply". Doesn't seem like it's part of the model.
+2021-10-01 10:58:58.972947, [WARN] Unable to simulate equation "Trader Demand-to-Supply Ratio". Doesn't seem like it's part of the model.
+2021-10-01 10:58:58.972987, [WARN] Unable to simulate equation "Trader Price". Doesn't seem like it's part of the model.
+2021-10-01 11:00:57.093470, [WARN] Unable to simulate equation "Trader Stock". Doesn't seem like it's part of the model.
+2021-10-01 11:00:57.189002, [WARN] Unable to simulate equation "Trader Supply". Doesn't seem like it's part of the model.
+2021-10-01 11:00:57.196981, [WARN] Unable to simulate equation "Trader Price". Doesn't seem like it's part of the model.
+2021-10-01 11:00:57.201383, [WARN] Unable to simulate equation "Trader Demand-to-Supply Ratio". Doesn't seem like it's part of the model.
+2021-10-01 11:02:00.431233, [WARN] Unable to simulate equation "Trader Stock". Doesn't seem like it's part of the model.
+2021-10-01 11:02:00.489490, [WARN] Unable to simulate equation "Trader to Wholesaler Volume". Doesn't seem like it's part of the model.
+2021-10-01 11:02:00.527378, [WARN] Unable to simulate equation "Trader Supply". Doesn't seem like it's part of the model.
+2021-10-01 11:02:00.532321, [WARN] Unable to simulate equation "Trader Demand-to-Supply Ratio". Doesn't seem like it's part of the model.
+2021-10-01 11:02:00.533661, [WARN] Unable to simulate equation "Trader Price". Doesn't seem like it's part of the model.
+2021-10-01 11:02:04.972789, [ERROR] No simulation model containing equation "Trader to Wholesaler Volume". Did you maybe mean one of "Trader to Wholesaler Demand, Farmer to Trader Volume, Trader Stock Initial Value"?

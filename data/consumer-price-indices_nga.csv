@@ -1,0 +1,764 @@
+,Iso3,StartDate,EndDate,Area Code,Area,Item Code,Item,Months Code,Months,Year Code,Year,Unit,Value,Flag,Note
+0,#country+code,#date+start,#date+end,,#country+name,#indicator+code,#indicator+name,,,,#date+year,#indicator+type,#indicator+value+num,,
+1,NGA,2000-01-01,2000-01-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7001.0,January,2000.0,2000,,18.029123,F,base year is 2015
+2,NGA,2001-01-01,2001-01-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7001.0,January,2001.0,2001,,18.857682,F,base year is 2015
+3,NGA,2002-01-01,2002-01-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7001.0,January,2002.0,2002,,23.848717,F,base year is 2015
+4,NGA,2003-01-01,2003-01-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7001.0,January,2003.0,2003,,26.827012,F,base year is 2015
+5,NGA,2004-01-01,2004-01-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7001.0,January,2004.0,2004,,28.677855,F,base year is 2015
+6,NGA,2005-01-01,2005-01-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7001.0,January,2005.0,2005,,33.017769,X,base year is 2015
+7,NGA,2006-01-01,2006-01-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7001.0,January,2006.0,2006,,37.833564,X,base year is 2015
+8,NGA,2007-01-01,2007-01-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7001.0,January,2007.0,2007,,37.850461,X,base year is 2015
+9,NGA,2008-01-01,2008-01-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7001.0,January,2008.0,2008,,42.677522,X,base year is 2015
+10,NGA,2009-01-01,2009-01-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7001.0,January,2009.0,2009,,50.410957,X,base year is 2015
+11,NGA,2010-01-01,2010-01-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7001.0,January,2010.0,2010,,58.521770,X,base year is 2015
+12,NGA,2011-01-01,2011-01-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7001.0,January,2011.0,2011,,66.852251,X,base year is 2015
+13,NGA,2012-01-01,2012-01-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7001.0,January,2012.0,2012,,73.673219,X,base year is 2015
+14,NGA,2013-01-01,2013-01-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7001.0,January,2013.0,2013,,79.981630,X,base year is 2015
+15,NGA,2014-01-01,2014-01-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7001.0,January,2014.0,2014,,87.416542,X,base year is 2015
+16,NGA,2015-01-01,2015-01-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7001.0,January,2015.0,2015,,95.414705,X,base year is 2015
+17,NGA,2016-01-01,2016-01-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7001.0,January,2016.0,2016,,105.660239,X,base year is 2015
+18,NGA,2017-01-01,2017-01-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7001.0,January,2017.0,2017,,124.163986,X,base year is 2015
+19,NGA,2018-01-01,2018-01-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7001.0,January,2018.0,2018,,147.603670,X,base year is 2015
+20,NGA,2019-01-01,2019-01-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7001.0,January,2019.0,2019,,167.470794,X,base year is 2015
+21,NGA,2020-01-01,2020-01-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7001.0,January,2020.0,2020,,192.197736,X,base year is 2015
+22,NGA,2021-01-01,2021-01-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7001.0,January,2021.0,2021,,231.469186,X,base year is 2015
+23,NGA,2000-02-01,2000-02-29,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7002.0,February,2000.0,2000,,18.065333,F,base year is 2015
+24,NGA,2001-02-01,2001-02-28,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7002.0,February,2001.0,2001,,19.287935,F,base year is 2015
+25,NGA,2002-02-01,2002-02-28,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7002.0,February,2002.0,2002,,24.106969,F,base year is 2015
+26,NGA,2003-02-01,2003-02-28,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7002.0,February,2003.0,2003,,26.964543,F,base year is 2015
+27,NGA,2004-02-01,2004-02-29,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7002.0,February,2004.0,2004,,29.015859,F,base year is 2015
+28,NGA,2005-02-01,2005-02-28,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7002.0,February,2005.0,2005,,34.161168,X,base year is 2015
+29,NGA,2006-02-01,2006-02-28,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7002.0,February,2006.0,2006,,37.726546,X,base year is 2015
+30,NGA,2007-02-01,2007-02-28,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7002.0,February,2007.0,2007,,39.027656,X,base year is 2015
+31,NGA,2008-02-01,2008-02-29,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7002.0,February,2008.0,2008,,42.469119,X,base year is 2015
+32,NGA,2009-02-01,2009-02-28,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7002.0,February,2009.0,2009,,50.805232,X,base year is 2015
+33,NGA,2010-02-01,2010-02-28,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7002.0,February,2010.0,2010,,59.366646,X,base year is 2015
+34,NGA,2011-02-01,2011-02-28,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7002.0,February,2011.0,2011,,66.407283,X,base year is 2015
+35,NGA,2012-02-01,2012-02-29,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7002.0,February,2012.0,2012,,72.715693,X,base year is 2015
+36,NGA,2013-02-01,2013-02-28,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7002.0,February,2013.0,2013,,80.544881,X,base year is 2015
+37,NGA,2014-02-01,2014-02-28,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7002.0,February,2014.0,2014,,87.912202,X,base year is 2015
+38,NGA,2015-02-01,2015-02-28,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7002.0,February,2015.0,2015,,96.113136,X,base year is 2015
+39,NGA,2016-02-01,2016-02-29,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7002.0,February,2016.0,2016,,106.961348,X,base year is 2015
+40,NGA,2017-02-01,2017-02-28,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7002.0,February,2017.0,2017,,126.621095,X,base year is 2015
+41,NGA,2018-02-01,2018-02-28,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7002.0,February,2018.0,2018,,148.854259,X,base year is 2015
+42,NGA,2019-02-01,2019-02-28,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7002.0,February,2019.0,2019,,168.839059,X,base year is 2015
+43,NGA,2020-02-01,2020-02-29,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7002.0,February,2020.0,2020,,193.862434,X,base year is 2015
+44,NGA,2021-02-01,2021-02-28,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7002.0,February,2021.0,2021,,235.809621,X,base year is 2015
+45,NGA,2000-03-01,2000-03-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7003.0,March,2000.0,2000,,18.101543,F,base year is 2015
+46,NGA,2001-03-01,2001-03-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7003.0,March,2001.0,2001,,19.718188,F,base year is 2015
+47,NGA,2002-03-01,2002-03-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7003.0,March,2002.0,2002,,24.365220,F,base year is 2015
+48,NGA,2003-03-01,2003-03-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7003.0,March,2003.0,2003,,27.102074,F,base year is 2015
+49,NGA,2004-03-01,2004-03-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7003.0,March,2004.0,2004,,29.353864,F,base year is 2015
+50,NGA,2005-03-01,2005-03-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7003.0,March,2005.0,2005,,35.293302,X,base year is 2015
+51,NGA,2006-03-01,2006-03-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7003.0,March,2006.0,2006,,38.588320,X,base year is 2015
+52,NGA,2007-03-01,2007-03-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7003.0,March,2007.0,2007,,39.286751,X,base year is 2015
+53,NGA,2008-03-01,2008-03-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7003.0,March,2008.0,2008,,44.187034,X,base year is 2015
+54,NGA,2009-03-01,2009-03-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7003.0,March,2009.0,2009,,51.255833,X,base year is 2015
+55,NGA,2010-03-01,2010-03-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7003.0,March,2010.0,2010,,59.310321,X,base year is 2015
+56,NGA,2011-03-01,2011-03-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7003.0,March,2011.0,2011,,66.576258,X,base year is 2015
+57,NGA,2012-03-01,2012-03-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7003.0,March,2012.0,2012,,74.292795,X,base year is 2015
+58,NGA,2013-03-01,2013-03-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7003.0,March,2013.0,2013,,81.277107,X,base year is 2015
+59,NGA,2014-03-01,2014-03-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7003.0,March,2014.0,2014,,88.796506,X,base year is 2015
+60,NGA,2015-03-01,2015-03-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7003.0,March,2015.0,2015,,97.093192,X,base year is 2015
+61,NGA,2016-03-01,2016-03-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7003.0,March,2016.0,2016,,109.383327,X,base year is 2015
+62,NGA,2017-03-01,2017-03-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7003.0,March,2017.0,2017,,129.404217,X,base year is 2015
+63,NGA,2018-03-01,2018-03-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7003.0,March,2018.0,2018,,150.189542,X,base year is 2015
+64,NGA,2019-03-01,2019-03-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7003.0,March,2019.0,2019,,170.317395,X,base year is 2015
+65,NGA,2020-03-01,2020-03-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7003.0,March,2020.0,2020,,195.683139,X,base year is 2015
+66,NGA,2021-03-01,2021-03-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7003.0,March,2021.0,2021,,240.274068,X,base year is 2015
+67,NGA,2000-04-01,2000-04-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7004.0,April,2000.0,2000,,18.137752,F,base year is 2015
+68,NGA,2001-04-01,2001-04-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7004.0,April,2001.0,2001,,20.148441,F,base year is 2015
+69,NGA,2002-04-01,2002-04-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7004.0,April,2002.0,2002,,24.623471,F,base year is 2015
+70,NGA,2003-04-01,2003-04-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7004.0,April,2003.0,2003,,27.239605,F,base year is 2015
+71,NGA,2004-04-01,2004-04-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7004.0,April,2004.0,2004,,29.691868,F,base year is 2015
+72,NGA,2005-04-01,2005-04-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7004.0,April,2005.0,2005,,35.372157,X,base year is 2015
+73,NGA,2006-04-01,2006-04-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7004.0,April,2006.0,2006,,38.740398,X,base year is 2015
+74,NGA,2007-04-01,2007-04-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7004.0,April,2007.0,2007,,39.681027,X,base year is 2015
+75,NGA,2008-04-01,2008-04-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7004.0,April,2008.0,2008,,44.868568,X,base year is 2015
+76,NGA,2009-04-01,2009-04-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7004.0,April,2009.0,2009,,51.650109,X,base year is 2015
+77,NGA,2010-04-01,2010-04-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7004.0,April,2010.0,2010,,60.098872,X,base year is 2015
+78,NGA,2011-04-01,2011-04-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7004.0,April,2011.0,2011,,66.463608,X,base year is 2015
+79,NGA,2012-04-01,2012-04-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7004.0,April,2012.0,2012,,74.405446,X,base year is 2015
+80,NGA,2013-04-01,2013-04-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7004.0,April,2013.0,2013,,81.840358,X,base year is 2015
+81,NGA,2014-04-01,2014-04-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7004.0,April,2014.0,2014,,89.494938,X,base year is 2015
+82,NGA,2015-04-01,2015-04-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7004.0,April,2015.0,2015,,97.949334,X,base year is 2015
+83,NGA,2016-04-01,2016-04-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7004.0,April,2016.0,2016,,110.791455,X,base year is 2015
+84,NGA,2017-04-01,2017-04-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7004.0,April,2017.0,2017,,132.038865,X,base year is 2015
+85,NGA,2018-04-01,2018-04-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7004.0,April,2018.0,2018,,151.559359,X,base year is 2015
+86,NGA,2019-04-01,2019-04-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7004.0,April,2019.0,2019,,172.241729,X,base year is 2015
+87,NGA,2020-04-01,2020-04-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7004.0,April,2020.0,2020,,197.982088,X,base year is 2015
+88,NGA,2021-04-01,2021-04-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7004.0,April,2021.0,2021,,242.692310,X,base year is 2015
+89,NGA,2000-05-01,2000-05-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7005.0,May,2000.0,2000,,18.173962,F,base year is 2015
+90,NGA,2001-05-01,2001-05-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7005.0,May,2001.0,2001,,20.578694,F,base year is 2015
+91,NGA,2002-05-01,2002-05-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7005.0,May,2002.0,2002,,24.881723,F,base year is 2015
+92,NGA,2003-05-01,2003-05-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7005.0,May,2003.0,2003,,27.377135,F,base year is 2015
+93,NGA,2004-05-01,2004-05-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7005.0,May,2004.0,2004,,30.029873,F,base year is 2015
+94,NGA,2005-05-01,2005-05-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7005.0,May,2005.0,2005,,35.710108,X,base year is 2015
+95,NGA,2006-05-01,2006-05-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7005.0,May,2006.0,2006,,38.807988,X,base year is 2015
+96,NGA,2007-05-01,2007-05-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7005.0,May,2007.0,2007,,39.793677,X,base year is 2015
+97,NGA,2008-05-01,2008-05-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7005.0,May,2008.0,2008,,45.606426,X,base year is 2015
+98,NGA,2009-05-01,2009-05-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7005.0,May,2009.0,2009,,52.663960,X,base year is 2015
+99,NGA,2010-05-01,2010-05-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7005.0,May,2010.0,2010,,59.817247,X,base year is 2015
+100,NGA,2011-05-01,2011-05-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7005.0,May,2011.0,2011,,66.745233,X,base year is 2015
+101,NGA,2012-05-01,2012-05-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7005.0,May,2012.0,2012,,75.306647,X,base year is 2015
+102,NGA,2013-05-01,2013-05-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7005.0,May,2013.0,2013,,82.290958,X,base year is 2015
+103,NGA,2014-05-01,2014-05-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7005.0,May,2014.0,2014,,90.215899,X,base year is 2015
+104,NGA,2015-05-01,2015-05-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7005.0,May,2015.0,2015,,99.013878,X,base year is 2015
+105,NGA,2016-05-01,2016-05-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7005.0,May,2016.0,2016,,113.618338,X,base year is 2015
+106,NGA,2017-05-01,2017-05-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7005.0,May,2017.0,2017,,135.370930,X,base year is 2015
+107,NGA,2018-05-01,2018-05-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7005.0,May,2018.0,2018,,153.562391,X,base year is 2015
+108,NGA,2019-05-01,2019-05-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7005.0,May,2019.0,2019,,174.654149,X,base year is 2015
+109,NGA,2020-05-01,2020-05-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7005.0,May,2020.0,2020,,200.776111,X,base year is 2015
+110,NGA,2021-05-01,2021-05-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7005.0,May,2021.0,2021,,245.234565,X,base year is 2015
+111,NGA,2000-06-01,2000-06-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7006.0,June,2000.0,2000,,18.210171,F,base year is 2015
+112,NGA,2001-06-01,2001-06-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7006.0,June,2001.0,2001,,21.008947,F,base year is 2015
+113,NGA,2002-06-01,2002-06-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7006.0,June,2002.0,2002,,25.139974,F,base year is 2015
+114,NGA,2003-06-01,2003-06-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7006.0,June,2003.0,2003,,27.514666,F,base year is 2015
+115,NGA,2004-06-01,2004-06-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7006.0,June,2004.0,2004,,30.367877,F,base year is 2015
+116,NGA,2005-06-01,2005-06-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7006.0,June,2005.0,2005,,36.791550,X,base year is 2015
+117,NGA,2006-06-01,2006-06-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7006.0,June,2006.0,2006,,39.067083,X,base year is 2015
+118,NGA,2007-06-01,2007-06-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7006.0,June,2007.0,2007,,40.418886,X,base year is 2015
+119,NGA,2008-06-01,2008-06-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7006.0,June,2008.0,2008,,47.662292,X,base year is 2015
+120,NGA,2009-06-01,2009-06-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7006.0,June,2009.0,2009,,53.846787,X,base year is 2015
+121,NGA,2010-06-01,2010-06-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7006.0,June,2010.0,2010,,62.070251,X,base year is 2015
+122,NGA,2011-06-01,2011-06-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7006.0,June,2011.0,2011,,67.308484,X,base year is 2015
+123,NGA,2012-06-01,2012-06-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7006.0,June,2012.0,2012,,75.644598,X,base year is 2015
+124,NGA,2013-06-01,2013-06-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7006.0,June,2013.0,2013,,82.854209,X,base year is 2015
+125,NGA,2014-06-01,2014-06-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7006.0,June,2014.0,2014,,90.953757,X,base year is 2015
+126,NGA,2015-06-01,2015-06-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7006.0,June,2015.0,2015,,100.050260,X,base year is 2015
+127,NGA,2016-06-01,2016-06-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7006.0,June,2016.0,2016,,115.241137,X,base year is 2015
+128,NGA,2017-06-01,2017-06-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7006.0,June,2017.0,2017,,138.072513,X,base year is 2015
+129,NGA,2018-06-01,2018-06-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7006.0,June,2018.0,2018,,155.959788,X,base year is 2015
+130,NGA,2019-06-01,2019-06-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7006.0,June,2019.0,2019,,177.014309,X,base year is 2015
+131,NGA,2020-06-01,2020-06-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7006.0,June,2020.0,2020,,203.690403,X,base year is 2015
+132,NGA,2021-06-01,2021-06-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7006.0,June,2021.0,2021,,251.872835,F,base year is 2015
+133,NGA,2000-07-01,2000-07-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7007.0,July,2000.0,2000,,18.246381,F,base year is 2015
+134,NGA,2001-07-01,2001-07-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7007.0,July,2001.0,2001,,21.439201,F,base year is 2015
+135,NGA,2002-07-01,2002-07-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7007.0,July,2002.0,2002,,25.398225,F,base year is 2015
+136,NGA,2003-07-01,2003-07-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7007.0,July,2003.0,2003,,27.652197,F,base year is 2015
+137,NGA,2004-07-01,2004-07-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7007.0,July,2004.0,2004,,30.705882,F,base year is 2015
+138,NGA,2005-07-01,2005-07-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7007.0,July,2005.0,2005,,41.432737,X,base year is 2015
+139,NGA,2006-07-01,2006-07-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7007.0,July,2006.0,2006,,39.951387,X,base year is 2015
+140,NGA,2007-07-01,2007-07-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7007.0,July,2007.0,2007,,40.537168,X,base year is 2015
+141,NGA,2008-07-01,2008-07-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7007.0,July,2008.0,2008,,48.884547,X,base year is 2015
+142,NGA,2009-07-01,2009-07-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7007.0,July,2009.0,2009,,55.085939,X,base year is 2015
+143,NGA,2010-07-01,2010-07-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7007.0,July,2010.0,2010,,63.084102,X,base year is 2015
+144,NGA,2011-07-01,2011-07-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7007.0,July,2011.0,2011,,67.702760,X,base year is 2015
+145,NGA,2012-07-01,2012-07-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7007.0,July,2012.0,2012,,75.869898,X,base year is 2015
+146,NGA,2013-07-01,2013-07-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7007.0,July,2013.0,2013,,83.417460,X,base year is 2015
+147,NGA,2014-07-01,2014-07-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7007.0,July,2014.0,2014,,91.640924,X,base year is 2015
+148,NGA,2015-07-01,2015-07-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7007.0,July,2015.0,2015,,100.816281,X,base year is 2015
+149,NGA,2016-07-01,2016-07-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7007.0,July,2016.0,2016,,116.622296,X,base year is 2015
+150,NGA,2017-07-01,2017-07-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7007.0,July,2017.0,2017,,140.168719,X,base year is 2015
+151,NGA,2018-07-01,2018-07-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7007.0,July,2018.0,2018,,158.139364,X,base year is 2015
+152,NGA,2019-07-01,2019-07-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7007.0,July,2019.0,2019,,179.223476,X,base year is 2015
+153,NGA,2020-07-01,2020-07-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7007.0,July,2020.0,2020,,206.790714,X,base year is 2015
+154,NGA,2000-08-01,2000-08-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7008.0,August,2000.0,2000,,18.282591,F,base year is 2015
+155,NGA,2001-08-01,2001-08-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7008.0,August,2001.0,2001,,21.869454,F,base year is 2015
+156,NGA,2002-08-01,2002-08-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7008.0,August,2002.0,2002,,25.656477,F,base year is 2015
+157,NGA,2003-08-01,2003-08-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7008.0,August,2003.0,2003,,27.789727,F,base year is 2015
+158,NGA,2004-08-01,2004-08-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7008.0,August,2004.0,2004,,31.043886,F,base year is 2015
+159,NGA,2005-08-01,2005-08-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7008.0,August,2005.0,2005,,42.992942,X,base year is 2015
+160,NGA,2006-08-01,2006-08-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7008.0,August,2006.0,2006,,42.103006,X,base year is 2015
+161,NGA,2007-08-01,2007-08-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7008.0,August,2007.0,2007,,41.708730,X,base year is 2015
+162,NGA,2008-08-01,2008-08-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7008.0,August,2008.0,2008,,49.447798,X,base year is 2015
+163,NGA,2009-08-01,2009-08-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7008.0,August,2009.0,2009,,55.705515,X,base year is 2015
+164,NGA,2010-08-01,2010-08-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7008.0,August,2010.0,2010,,64.266929,X,base year is 2015
+165,NGA,2011-08-01,2011-08-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7008.0,August,2011.0,2011,,69.505163,X,base year is 2015
+166,NGA,2012-08-01,2012-08-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7008.0,August,2012.0,2012,,76.433149,X,base year is 2015
+167,NGA,2013-08-01,2013-08-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7008.0,August,2013.0,2013,,83.811736,X,base year is 2015
+168,NGA,2014-08-01,2014-08-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7008.0,August,2014.0,2014,,92.142217,X,base year is 2015
+169,NGA,2015-08-01,2015-08-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7008.0,August,2015.0,2015,,101.447122,X,base year is 2015
+170,NGA,2016-08-01,2016-08-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7008.0,August,2016.0,2016,,116.393882,X,base year is 2015
+171,NGA,2017-08-01,2017-08-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7008.0,August,2017.0,2017,,141.768866,X,base year is 2015
+172,NGA,2018-08-01,2018-08-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7008.0,August,2018.0,2018,,160.371967,X,base year is 2015
+173,NGA,2019-08-01,2019-08-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7008.0,August,2019.0,2019,,181.401349,X,base year is 2015
+174,NGA,2020-08-01,2020-08-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7008.0,August,2020.0,2020,,210.263062,X,base year is 2015
+175,NGA,2000-09-01,2000-09-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7009.0,September,2000.0,2000,,18.318800,F,base year is 2015
+176,NGA,2001-09-01,2001-09-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7009.0,September,2001.0,2001,,22.299707,F,base year is 2015
+177,NGA,2002-09-01,2002-09-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7009.0,September,2002.0,2002,,25.914728,F,base year is 2015
+178,NGA,2003-09-01,2003-09-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7009.0,September,2003.0,2003,,27.927258,F,base year is 2015
+179,NGA,2004-09-01,2004-09-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7009.0,September,2004.0,2004,,31.381891,F,base year is 2015
+180,NGA,2005-09-01,2005-09-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7009.0,September,2005.0,2005,,41.106052,X,base year is 2015
+181,NGA,2006-09-01,2006-09-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7009.0,September,2006.0,2006,,42.823967,X,base year is 2015
+182,NGA,2007-09-01,2007-09-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7009.0,September,2007.0,2007,,42.638094,X,base year is 2015
+183,NGA,2008-09-01,2008-09-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7009.0,September,2008.0,2008,,49.864603,X,base year is 2015
+184,NGA,2009-09-01,2009-09-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7009.0,September,2009.0,2009,,56.043466,X,base year is 2015
+185,NGA,2010-09-01,2010-09-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7009.0,September,2010.0,2010,,63.928979,X,base year is 2015
+186,NGA,2011-09-01,2011-09-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7009.0,September,2011.0,2011,,69.955763,X,base year is 2015
+187,NGA,2012-09-01,2012-09-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7009.0,September,2012.0,2012,,77.278025,X,base year is 2015
+188,NGA,2013-09-01,2013-09-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7009.0,September,2013.0,2013,,84.543962,X,base year is 2015
+189,NGA,2014-09-01,2014-09-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7009.0,September,2014.0,2014,,92.694203,X,base year is 2015
+190,NGA,2015-09-01,2015-09-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7009.0,September,2015.0,2015,,102.094860,X,base year is 2015
+191,NGA,2016-09-01,2016-09-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7009.0,September,2016.0,2016,,118.920402,X,base year is 2015
+192,NGA,2017-09-01,2017-09-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7009.0,September,2017.0,2017,,142.997440,X,base year is 2015
+193,NGA,2018-09-01,2018-09-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7009.0,September,2018.0,2018,,161.990963,X,base year is 2015
+194,NGA,2019-09-01,2019-09-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7009.0,September,2019.0,2019,,183.745666,X,base year is 2015
+195,NGA,2020-09-01,2020-09-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7009.0,September,2020.0,2020,,214.169453,X,base year is 2015
+196,NGA,2000-10-01,2000-10-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7010.0,October,2000.0,2000,,18.355010,F,base year is 2015
+197,NGA,2001-10-01,2001-10-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7010.0,October,2001.0,2001,,22.729960,F,base year is 2015
+198,NGA,2002-10-01,2002-10-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7010.0,October,2002.0,2002,,26.172979,F,base year is 2015
+199,NGA,2003-10-01,2003-10-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7010.0,October,2003.0,2003,,28.064789,F,base year is 2015
+200,NGA,2004-10-01,2004-10-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7010.0,October,2004.0,2004,,31.719896,F,base year is 2015
+201,NGA,2005-10-01,2005-10-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7010.0,October,2005.0,2005,,39.754249,X,base year is 2015
+202,NGA,2006-10-01,2006-10-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7010.0,October,2006.0,2006,,41.612977,X,base year is 2015
+203,NGA,2007-10-01,2007-10-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7010.0,October,2007.0,2007,,41.725628,X,base year is 2015
+204,NGA,2008-10-01,2008-10-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7010.0,October,2008.0,2008,,49.605508,X,base year is 2015
+205,NGA,2009-10-01,2009-10-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7010.0,October,2009.0,2009,,56.268766,X,base year is 2015
+206,NGA,2010-10-01,2010-10-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7010.0,October,2010.0,2010,,64.266929,X,base year is 2015
+207,NGA,2011-10-01,2011-10-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7010.0,October,2011.0,2011,,70.012088,X,base year is 2015
+208,NGA,2012-10-01,2012-10-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7010.0,October,2012.0,2012,,78.066577,X,base year is 2015
+209,NGA,2013-10-01,2013-10-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7010.0,October,2013.0,2013,,85.219863,X,base year is 2015
+210,NGA,2014-10-01,2014-10-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7010.0,October,2014.0,2014,,93.156068,X,base year is 2015
+211,NGA,2015-10-01,2015-10-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7010.0,October,2015.0,2015,,102.562359,X,base year is 2015
+212,NGA,2016-10-01,2016-10-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7010.0,October,2016.0,2016,,119.933931,X,base year is 2015
+213,NGA,2017-10-01,2017-10-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7010.0,October,2017.0,2017,,144.206925,X,base year is 2015
+214,NGA,2018-10-01,2018-10-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7010.0,October,2018.0,2018,,163.293075,X,base year is 2015
+215,NGA,2019-10-01,2019-10-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7010.0,October,2019.0,2019,,186.179498,X,base year is 2015
+216,NGA,2020-10-01,2020-10-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7010.0,October,2020.0,2020,,218.323869,X,base year is 2015
+217,NGA,2000-11-01,2000-11-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7011.0,November,2000.0,2000,,18.391219,F,base year is 2015
+218,NGA,2001-11-01,2001-11-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7011.0,November,2001.0,2001,,23.160213,F,base year is 2015
+219,NGA,2002-11-01,2002-11-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7011.0,November,2002.0,2002,,26.431230,F,base year is 2015
+220,NGA,2003-11-01,2003-11-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7011.0,November,2003.0,2003,,28.202319,F,base year is 2015
+221,NGA,2004-11-01,2004-11-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7011.0,November,2004.0,2004,,32.057900,F,base year is 2015
+222,NGA,2005-11-01,2005-11-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7011.0,November,2005.0,2005,,38.622115,X,base year is 2015
+223,NGA,2006-11-01,2006-11-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7011.0,November,2006.0,2006,,40.745571,X,base year is 2015
+224,NGA,2007-11-01,2007-11-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7011.0,November,2007.0,2007,,42.153698,X,base year is 2015
+225,NGA,2008-11-01,2008-11-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7011.0,November,2008.0,2008,,49.650568,X,base year is 2015
+226,NGA,2009-11-01,2009-11-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7011.0,November,2009.0,2009,,56.325091,X,base year is 2015
+227,NGA,2010-11-01,2010-11-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7011.0,November,2010.0,2010,,64.379579,X,base year is 2015
+228,NGA,2011-11-01,2011-11-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7011.0,November,2011.0,2011,,70.462689,X,base year is 2015
+229,NGA,2012-11-01,2012-11-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7011.0,November,2012.0,2012,,78.629827,X,base year is 2015
+230,NGA,2013-11-01,2013-11-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7011.0,November,2013.0,2013,,85.901397,X,base year is 2015
+231,NGA,2014-11-01,2014-11-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7011.0,November,2014.0,2014,,93.724952,X,base year is 2015
+232,NGA,2015-11-01,2015-11-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7011.0,November,2015.0,2015,,103.362175,X,base year is 2015
+233,NGA,2016-11-01,2016-11-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7011.0,November,2016.0,2016,,120.983624,X,base year is 2015
+234,NGA,2017-11-01,2017-11-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7011.0,November,2017.0,2017,,145.475782,X,base year is 2015
+235,NGA,2018-11-01,2018-11-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7011.0,November,2018.0,2018,,164.763765,X,base year is 2015
+236,NGA,2019-11-01,2019-11-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7011.0,November,2019.0,2019,,188.495023,X,base year is 2015
+237,NGA,2020-11-01,2020-11-30,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7011.0,November,2020.0,2020,,222.788316,X,base year is 2015
+238,NGA,2000-12-01,2000-12-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7012.0,December,2000.0,2000,,18.427429,X,base year is 2015
+239,NGA,2001-12-01,2001-12-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7012.0,December,2001.0,2001,,23.590466,X,base year is 2015
+240,NGA,2002-12-01,2002-12-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7012.0,December,2002.0,2002,,26.689482,X,base year is 2015
+241,NGA,2003-12-01,2003-12-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7012.0,December,2003.0,2003,,28.339850,X,base year is 2015
+242,NGA,2004-12-01,2004-12-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7012.0,December,2004.0,2004,,32.395905,X,base year is 2015
+243,NGA,2005-12-01,2005-12-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7012.0,December,2005.0,2005,,37.625161,X,base year is 2015
+244,NGA,2006-12-01,2006-12-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7012.0,December,2006.0,2006,,39.112143,X,base year is 2015
+245,NGA,2007-12-01,2007-12-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7012.0,December,2007.0,2007,,42.463486,X,base year is 2015
+246,NGA,2008-12-01,2008-12-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7012.0,December,2008.0,2008,,49.949091,X,base year is 2015
+247,NGA,2009-12-01,2009-12-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7012.0,December,2009.0,2009,,57.845869,X,base year is 2015
+248,NGA,2010-12-01,2010-12-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7012.0,December,2010.0,2010,,65.055480,X,base year is 2015
+249,NGA,2011-12-01,2011-12-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7012.0,December,2011.0,2011,,71.983467,X,base year is 2015
+250,NGA,2012-12-01,2012-12-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7012.0,December,2012.0,2012,,79.362054,X,base year is 2015
+251,NGA,2013-12-01,2013-12-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7012.0,December,2013.0,2013,,86.678683,X,base year is 2015
+252,NGA,2014-12-01,2014-12-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7012.0,December,2014.0,2014,,94.569828,X,base year is 2015
+253,NGA,2015-12-01,2015-12-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7012.0,December,2015.0,2015,,104.561899,X,base year is 2015
+254,NGA,2016-12-01,2016-12-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7012.0,December,2016.0,2016,,122.563399,X,base year is 2015
+255,NGA,2017-12-01,2017-12-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7012.0,December,2017.0,2017,,146.327295,X,base year is 2015
+256,NGA,2018-12-01,2018-12-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7012.0,December,2018.0,2018,,166.101161,X,base year is 2015
+257,NGA,2019-12-01,2019-12-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7012.0,December,2019.0,2019,,190.325462,X,base year is 2015
+258,NGA,2020-12-01,2020-12-31,159.0,Nigeria,23013,"Consumer Prices, Food Indices (2015 = 100)",7012.0,December,2020.0,2020,,227.314770,X,base year is 2015
+259,NGA,2000-01-01,2000-01-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7001.0,January,2000.0,2000,,16.982166,X,base year is 2015
+260,NGA,2001-01-01,2001-01-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7001.0,January,2001.0,2001,,19.978195,X,base year is 2015
+261,NGA,2002-01-01,2002-01-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7001.0,January,2002.0,2002,,23.684301,X,base year is 2015
+262,NGA,2003-01-01,2003-01-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7001.0,January,2003.0,2003,,26.185022,X,base year is 2015
+263,NGA,2004-01-01,2004-01-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7001.0,January,2004.0,2004,,32.051759,X,base year is 2015
+264,NGA,2005-01-01,2005-01-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7001.0,January,2005.0,2005,,35.200420,X,base year is 2015
+265,NGA,2006-01-01,2006-01-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7001.0,January,2006.0,2006,,38.967767,X,base year is 2015
+266,NGA,2007-01-01,2007-01-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7001.0,January,2007.0,2007,,42.076405,X,base year is 2015
+267,NGA,2008-01-01,2008-01-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7001.0,January,2008.0,2008,,45.681964,X,base year is 2015
+268,NGA,2009-01-01,2009-01-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7001.0,January,2009.0,2009,,52.118810,X,base year is 2015
+269,NGA,2010-01-01,2010-01-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7001.0,January,2010.0,2010,,59.572609,X,base year is 2015
+270,NGA,2011-01-01,2011-01-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7001.0,January,2011.0,2011,,66.789504,X,base year is 2015
+271,NGA,2012-01-01,2012-01-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7001.0,January,2012.0,2012,,75.231365,X,base year is 2015
+272,NGA,2013-01-01,2013-01-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7001.0,January,2013.0,2013,,81.991787,X,base year is 2015
+273,NGA,2014-01-01,2014-01-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7001.0,January,2014.0,2014,,88.578865,X,base year is 2015
+274,NGA,2015-01-01,2015-01-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7001.0,January,2015.0,2015,,95.784204,X,base year is 2015
+275,NGA,2016-01-01,2016-01-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7001.0,January,2016.0,2016,,104.994557,X,base year is 2015
+276,NGA,2017-01-01,2017-01-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7001.0,January,2017.0,2017,,124.646720,X,base year is 2015
+277,NGA,2018-01-01,2018-01-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7001.0,January,2018.0,2018,,143.501708,X,base year is 2015
+278,NGA,2019-01-01,2019-01-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7001.0,January,2019.0,2019,,159.823712,X,base year is 2015
+279,NGA,2020-01-01,2020-01-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7001.0,January,2020.0,2020,,179.214013,X,base year is 2015
+280,NGA,2021-01-01,2021-01-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7001.0,January,2021.0,2021,,208.703651,X,base year is 2015
+281,NGA,2000-02-01,2000-02-29,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7002.0,February,2000.0,2000,,17.189272,X,base year is 2015
+282,NGA,2001-02-01,2001-02-28,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7002.0,February,2001.0,2001,,20.385140,X,base year is 2015
+283,NGA,2002-02-01,2002-02-28,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7002.0,February,2002.0,2002,,24.053354,X,base year is 2015
+284,NGA,2003-02-01,2003-02-28,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7002.0,February,2003.0,2003,,25.808259,X,base year is 2015
+285,NGA,2004-02-01,2004-02-29,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7002.0,February,2004.0,2004,,32.213229,X,base year is 2015
+286,NGA,2005-02-01,2005-02-28,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7002.0,February,2005.0,2005,,35.726231,X,base year is 2015
+287,NGA,2006-02-01,2006-02-28,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7002.0,February,2006.0,2006,,39.597584,X,base year is 2015
+288,NGA,2007-02-01,2007-02-28,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7002.0,February,2007.0,2007,,42.399981,X,base year is 2015
+289,NGA,2008-02-01,2008-02-29,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7002.0,February,2008.0,2008,,45.803305,X,base year is 2015
+290,NGA,2009-02-01,2009-02-28,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7002.0,February,2009.0,2009,,52.465499,X,base year is 2015
+291,NGA,2010-02-01,2010-02-28,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7002.0,February,2010.0,2010,,60.670455,X,base year is 2015
+292,NGA,2011-02-01,2011-02-28,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7002.0,February,2011.0,2011,,67.430878,X,base year is 2015
+293,NGA,2012-02-01,2012-02-29,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7002.0,February,2012.0,2012,,75.404709,X,base year is 2015
+294,NGA,2013-02-01,2013-02-28,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7002.0,February,2013.0,2013,,82.627382,X,base year is 2015
+295,NGA,2014-02-01,2014-02-28,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7002.0,February,2014.0,2014,,89.000669,X,base year is 2015
+296,NGA,2015-02-01,2015-02-28,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7002.0,February,2015.0,2015,,96.437133,X,base year is 2015
+297,NGA,2016-02-01,2016-02-29,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7002.0,February,2016.0,2016,,107.409819,X,base year is 2015
+298,NGA,2017-02-01,2017-02-28,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7002.0,February,2017.0,2017,,126.509674,X,base year is 2015
+299,NGA,2018-02-01,2018-02-28,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7002.0,February,2018.0,2018,,144.638021,X,base year is 2015
+300,NGA,2019-02-01,2019-02-28,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7002.0,February,2019.0,2019,,160.990583,X,base year is 2015
+301,NGA,2020-02-01,2020-02-29,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7002.0,February,2020.0,2020,,180.629074,X,base year is 2015
+302,NGA,2021-02-01,2021-02-28,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7002.0,February,2021.0,2021,,211.913508,X,base year is 2015
+303,NGA,2000-03-01,2000-03-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7003.0,March,2000.0,2000,,17.374058,X,base year is 2015
+304,NGA,2001-03-01,2001-03-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7003.0,March,2001.0,2001,,20.536187,X,base year is 2015
+305,NGA,2002-03-01,2002-03-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7003.0,March,2002.0,2002,,24.105779,X,base year is 2015
+306,NGA,2003-03-01,2003-03-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7003.0,March,2003.0,2003,,25.512231,X,base year is 2015
+307,NGA,2004-03-01,2004-03-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7003.0,March,2004.0,2004,,31.244410,X,base year is 2015
+308,NGA,2005-03-01,2005-03-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7003.0,March,2005.0,2005,,36.321379,X,base year is 2015
+309,NGA,2006-03-01,2006-03-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7003.0,March,2006.0,2006,,40.695430,X,base year is 2015
+310,NGA,2007-03-01,2007-03-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7003.0,March,2007.0,2007,,42.827563,X,base year is 2015
+311,NGA,2008-03-01,2008-03-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7003.0,March,2008.0,2008,,46.161549,X,base year is 2015
+312,NGA,2009-03-01,2009-03-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7003.0,March,2009.0,2009,,52.812187,X,base year is 2015
+313,NGA,2010-03-01,2010-03-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7003.0,March,2010.0,2010,,60.612674,X,base year is 2015
+314,NGA,2011-03-01,2011-03-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7003.0,March,2011.0,2011,,68.355380,X,base year is 2015
+315,NGA,2012-03-01,2012-03-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7003.0,March,2012.0,2012,,76.618118,X,base year is 2015
+316,NGA,2013-03-01,2013-03-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7003.0,March,2013.0,2013,,83.205196,X,base year is 2015
+317,NGA,2014-03-01,2014-03-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7003.0,March,2014.0,2014,,89.694046,X,base year is 2015
+318,NGA,2015-03-01,2015-03-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7003.0,March,2015.0,2015,,97.315411,X,base year is 2015
+319,NGA,2016-03-01,2016-03-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7003.0,March,2016.0,2016,,109.495727,X,base year is 2015
+320,NGA,2017-03-01,2017-03-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7003.0,March,2017.0,2017,,128.684539,X,base year is 2015
+321,NGA,2018-03-01,2018-03-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7003.0,March,2018.0,2018,,145.847422,X,base year is 2015
+322,NGA,2019-03-01,2019-03-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7003.0,March,2019.0,2019,,162.256934,X,base year is 2015
+323,NGA,2020-03-01,2020-03-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7003.0,March,2020.0,2020,,182.145293,X,base year is 2015
+324,NGA,2021-03-01,2021-03-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7003.0,March,2021.0,2021,,215.249242,X,base year is 2015
+325,NGA,2000-04-01,2000-04-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7004.0,April,2000.0,2000,,17.720792,X,base year is 2015
+326,NGA,2001-04-01,2001-04-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7004.0,April,2001.0,2001,,21.837476,X,base year is 2015
+327,NGA,2002-04-01,2002-04-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7004.0,April,2002.0,2002,,24.624842,X,base year is 2015
+328,NGA,2003-04-01,2003-04-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7004.0,April,2003.0,2003,,26.669432,X,base year is 2015
+329,NGA,2004-04-01,2004-04-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7004.0,April,2004.0,2004,,31.325145,X,base year is 2015
+330,NGA,2005-04-01,2005-04-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7004.0,April,2005.0,2005,,36.945418,X,base year is 2015
+331,NGA,2006-04-01,2006-04-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7004.0,April,2006.0,2006,,41.585264,X,base year is 2015
+332,NGA,2007-04-01,2007-04-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7004.0,April,2007.0,2007,,43.341818,X,base year is 2015
+333,NGA,2008-04-01,2008-04-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7004.0,April,2008.0,2008,,46.878039,X,base year is 2015
+334,NGA,2009-04-01,2009-04-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7004.0,April,2009.0,2009,,53.101094,X,base year is 2015
+335,NGA,2010-04-01,2010-04-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7004.0,April,2010.0,2010,,61.074925,X,base year is 2015
+336,NGA,2011-04-01,2011-04-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7004.0,April,2011.0,2011,,68.008691,X,base year is 2015
+337,NGA,2012-04-01,2012-04-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7004.0,April,2012.0,2012,,76.733681,X,base year is 2015
+338,NGA,2013-04-01,2013-04-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7004.0,April,2013.0,2013,,83.667447,X,base year is 2015
+339,NGA,2014-04-01,2014-04-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7004.0,April,2014.0,2014,,90.248747,X,base year is 2015
+340,NGA,2015-04-01,2015-04-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7004.0,April,2015.0,2015,,98.055012,X,base year is 2015
+341,NGA,2016-04-01,2016-04-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7004.0,April,2016.0,2016,,111.512297,X,base year is 2015
+342,NGA,2017-04-01,2017-04-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7004.0,April,2017.0,2017,,130.744600,X,base year is 2015
+343,NGA,2018-04-01,2018-04-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7004.0,April,2018.0,2018,,147.064585,X,base year is 2015
+344,NGA,2019-04-01,2019-04-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7004.0,April,2019.0,2019,,163.788870,X,base year is 2015
+345,NGA,2020-04-01,2020-04-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7004.0,April,2020.0,2020,,184.002815,X,base year is 2015
+346,NGA,2021-04-01,2021-04-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7004.0,April,2021.0,2021,,217.326208,X,base year is 2015
+347,NGA,2000-05-01,2000-05-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7005.0,May,2000.0,2000,,18.279822,X,base year is 2015
+348,NGA,2001-05-01,2001-05-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7005.0,May,2001.0,2001,,22.476442,X,base year is 2015
+349,NGA,2002-05-01,2002-05-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7005.0,May,2002.0,2002,,24.764989,X,base year is 2015
+350,NGA,2003-05-01,2003-05-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7005.0,May,2003.0,2003,,26.911636,X,base year is 2015
+351,NGA,2004-05-01,2004-05-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7005.0,May,2004.0,2004,,32.240140,X,base year is 2015
+352,NGA,2005-05-01,2005-05-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7005.0,May,2005.0,2005,,37.644573,X,base year is 2015
+353,NGA,2006-05-01,2006-05-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7005.0,May,2006.0,2006,,41.614154,X,base year is 2015
+354,NGA,2007-05-01,2007-05-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7005.0,May,2007.0,2007,,43.544053,X,base year is 2015
+355,NGA,2008-05-01,2008-05-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7005.0,May,2008.0,2008,,47.767872,X,base year is 2015
+356,NGA,2009-05-01,2009-05-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7005.0,May,2009.0,2009,,54.083377,X,base year is 2015
+357,NGA,2010-05-01,2010-05-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7005.0,May,2010.0,2010,,61.074925,X,base year is 2015
+358,NGA,2011-05-01,2011-05-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7005.0,May,2011.0,2011,,68.586505,X,base year is 2015
+359,NGA,2012-05-01,2012-05-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7005.0,May,2012.0,2012,,77.311495,X,base year is 2015
+360,NGA,2013-05-01,2013-05-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7005.0,May,2013.0,2013,,84.245261,X,base year is 2015
+361,NGA,2014-05-01,2014-05-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7005.0,May,2014.0,2014,,90.953680,X,base year is 2015
+362,NGA,2015-05-01,2015-05-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7005.0,May,2015.0,2015,,99.141302,X,base year is 2015
+363,NGA,2016-05-01,2016-05-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7005.0,May,2016.0,2016,,114.583040,X,base year is 2015
+364,NGA,2017-05-01,2017-05-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7005.0,May,2017.0,2017,,133.204370,X,base year is 2015
+365,NGA,2018-05-01,2018-05-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7005.0,May,2018.0,2018,,148.666517,X,base year is 2015
+366,NGA,2019-05-01,2019-05-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7005.0,May,2019.0,2019,,165.609155,X,base year is 2015
+367,NGA,2020-05-01,2020-05-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7005.0,May,2020.0,2020,,186.151726,X,base year is 2015
+368,NGA,2021-05-01,2021-05-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7005.0,May,2021.0,2021,,219.529051,X,base year is 2015
+369,NGA,2000-06-01,2000-06-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7006.0,June,2000.0,2000,,19.068278,X,base year is 2015
+370,NGA,2001-06-01,2001-06-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7006.0,June,2001.0,2001,,22.130228,X,base year is 2015
+371,NGA,2002-06-01,2002-06-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7006.0,June,2002.0,2002,,24.835581,X,base year is 2015
+372,NGA,2003-06-01,2003-06-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7006.0,June,2003.0,2003,,28.311042,X,base year is 2015
+373,NGA,2004-06-01,2004-06-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7006.0,June,2004.0,2004,,32.293964,X,base year is 2015
+374,NGA,2005-06-01,2005-06-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7006.0,June,2005.0,2005,,38.285946,X,base year is 2015
+375,NGA,2006-06-01,2006-06-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7006.0,June,2006.0,2006,,41.533260,X,base year is 2015
+376,NGA,2007-06-01,2007-06-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7006.0,June,2007.0,2007,,44.208539,X,base year is 2015
+377,NGA,2008-06-01,2008-06-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7006.0,June,2008.0,2008,,49.530204,X,base year is 2015
+378,NGA,2009-06-01,2009-06-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7006.0,June,2009.0,2009,,55.065661,X,base year is 2015
+379,NGA,2010-06-01,2010-06-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7006.0,June,2010.0,2010,,62.866148,X,base year is 2015
+380,NGA,2011-06-01,2011-06-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7006.0,June,2011.0,2011,,69.279882,X,base year is 2015
+381,NGA,2012-06-01,2012-06-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7006.0,June,2012.0,2012,,78.178215,X,base year is 2015
+382,NGA,2013-06-01,2013-06-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7006.0,June,2013.0,2013,,84.707512,X,base year is 2015
+383,NGA,2014-06-01,2014-06-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7006.0,June,2014.0,2014,,91.652835,X,base year is 2015
+384,NGA,2015-06-01,2015-06-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7006.0,June,2015.0,2015,,100.060026,X,base year is 2015
+385,NGA,2016-06-01,2016-06-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7006.0,June,2016.0,2016,,116.545056,X,base year is 2015
+386,NGA,2017-06-01,2017-06-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7006.0,June,2017.0,2017,,135.309483,X,base year is 2015
+387,NGA,2018-06-01,2018-06-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7006.0,June,2018.0,2018,,150.505830,X,base year is 2015
+388,NGA,2019-06-01,2019-06-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7006.0,June,2019.0,2019,,167.388544,X,base year is 2015
+389,NGA,2020-06-01,2020-06-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7006.0,June,2020.0,2020,,188.437494,X,base year is 2015
+390,NGA,2021-06-01,2021-06-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7006.0,June,2021.0,2021,,223.886895,F,base year is 2015
+391,NGA,2000-07-01,2000-07-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7007.0,July,2000.0,2000,,18.977442,X,base year is 2015
+392,NGA,2001-07-01,2001-07-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7007.0,July,2001.0,2001,,22.582850,X,base year is 2015
+393,NGA,2002-07-01,2002-07-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7007.0,July,2002.0,2002,,26.099498,X,base year is 2015
+394,NGA,2003-07-01,2003-07-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7007.0,July,2003.0,2003,,29.468242,X,base year is 2015
+395,NGA,2004-07-01,2004-07-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7007.0,July,2004.0,2004,,32.616903,X,base year is 2015
+396,NGA,2005-07-01,2005-07-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7007.0,July,2005.0,2005,,41.128791,X,base year is 2015
+397,NGA,2006-07-01,2006-07-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7007.0,July,2006.0,2006,,42.359534,X,base year is 2015
+398,NGA,2007-07-01,2007-07-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7007.0,July,2007.0,2007,,44.410773,X,base year is 2015
+399,NGA,2008-07-01,2008-07-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7007.0,July,2008.0,2008,,50.604938,X,base year is 2015
+400,NGA,2009-07-01,2009-07-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7007.0,July,2009.0,2009,,56.221289,X,base year is 2015
+401,NGA,2010-07-01,2010-07-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7007.0,July,2010.0,2010,,63.501743,X,base year is 2015
+402,NGA,2011-07-01,2011-07-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7007.0,July,2011.0,2011,,69.511008,X,base year is 2015
+403,NGA,2012-07-01,2012-07-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7007.0,July,2012.0,2012,,78.409341,X,base year is 2015
+404,NGA,2013-07-01,2013-07-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7007.0,July,2013.0,2013,,85.169763,X,base year is 2015
+405,NGA,2014-07-01,2014-07-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7007.0,July,2014.0,2014,,92.247983,X,base year is 2015
+406,NGA,2015-07-01,2015-07-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7007.0,July,2015.0,2015,,100.753403,X,base year is 2015
+407,NGA,2016-07-01,2016-07-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7007.0,July,2016.0,2016,,117.989590,X,base year is 2015
+408,NGA,2017-07-01,2017-07-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7007.0,July,2017.0,2017,,136.950959,X,base year is 2015
+409,NGA,2018-07-01,2018-07-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7007.0,July,2018.0,2018,,152.209804,X,base year is 2015
+410,NGA,2019-07-01,2019-07-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7007.0,July,2019.0,2019,,169.081434,X,base year is 2015
+411,NGA,2020-07-01,2020-07-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7007.0,July,2020.0,2020,,190.766214,X,base year is 2015
+412,NGA,2000-08-01,2000-08-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7008.0,August,2000.0,2000,,19.415012,X,base year is 2015
+413,NGA,2001-08-01,2001-08-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7008.0,August,2001.0,2001,,23.047411,X,base year is 2015
+414,NGA,2002-08-01,2002-08-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7008.0,August,2002.0,2002,,25.878377,X,base year is 2015
+415,NGA,2003-08-01,2003-08-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7008.0,August,2003.0,2003,,29.091479,X,base year is 2015
+416,NGA,2004-08-01,2004-08-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7008.0,August,2004.0,2004,,32.886020,X,base year is 2015
+417,NGA,2005-08-01,2005-08-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7008.0,August,2005.0,2005,,42.145743,X,base year is 2015
+418,NGA,2006-08-01,2006-08-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7008.0,August,2006.0,2006,,43.723175,X,base year is 2015
+419,NGA,2007-08-01,2007-08-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7008.0,August,2007.0,2007,,45.566401,X,base year is 2015
+420,NGA,2008-08-01,2008-08-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7008.0,August,2008.0,2008,,51.194308,X,base year is 2015
+421,NGA,2009-08-01,2009-08-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7008.0,August,2009.0,2009,,56.856884,X,base year is 2015
+422,NGA,2010-08-01,2010-08-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7008.0,August,2010.0,2010,,64.657371,X,base year is 2015
+423,NGA,2011-08-01,2011-08-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7008.0,August,2011.0,2011,,70.666635,X,base year is 2015
+424,NGA,2012-08-01,2012-08-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7008.0,August,2012.0,2012,,78.929373,X,base year is 2015
+425,NGA,2013-08-01,2013-08-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7008.0,August,2013.0,2013,,85.400889,X,base year is 2015
+426,NGA,2014-08-01,2014-08-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7008.0,August,2014.0,2014,,92.692900,X,base year is 2015
+427,NGA,2015-08-01,2015-08-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7008.0,August,2015.0,2015,,101.348551,X,base year is 2015
+428,NGA,2016-08-01,2016-08-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7008.0,August,2016.0,2016,,119.194904,X,base year is 2015
+429,NGA,2017-08-01,2017-08-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7008.0,August,2017.0,2017,,138.279798,X,base year is 2015
+430,NGA,2018-08-01,2018-08-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7008.0,August,2018.0,2018,,153.805073,X,base year is 2015
+431,NGA,2019-08-01,2019-08-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7008.0,August,2019.0,2019,,170.748101,X,base year is 2015
+432,NGA,2020-08-01,2020-08-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7008.0,August,2020.0,2020,,193.346688,X,base year is 2015
+433,NGA,2000-09-01,2000-09-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7009.0,September,2000.0,2000,,19.684924,X,base year is 2015
+434,NGA,2001-09-01,2001-09-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7009.0,September,2001.0,2001,,23.447608,X,base year is 2015
+435,NGA,2002-09-01,2002-09-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7009.0,September,2002.0,2002,,25.786503,X,base year is 2015
+436,NGA,2003-09-01,2003-09-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7009.0,September,2003.0,2003,,30.517796,X,base year is 2015
+437,NGA,2004-09-01,2004-09-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7009.0,September,2004.0,2004,,33.316606,X,base year is 2015
+438,NGA,2005-09-01,2005-09-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7009.0,September,2005.0,2005,,41.394585,X,base year is 2015
+439,NGA,2006-09-01,2006-09-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7009.0,September,2006.0,2006,,43.983191,X,base year is 2015
+440,NGA,2007-09-01,2007-09-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7009.0,September,2007.0,2007,,45.791749,X,base year is 2015
+441,NGA,2008-09-01,2008-09-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7009.0,September,2008.0,2008,,51.760566,X,base year is 2015
+442,NGA,2009-09-01,2009-09-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7009.0,September,2009.0,2009,,57.145791,X,base year is 2015
+443,NGA,2010-09-01,2010-09-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7009.0,September,2010.0,2010,,64.946278,X,base year is 2015
+444,NGA,2011-09-01,2011-09-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7009.0,September,2011.0,2011,,71.648919,X,base year is 2015
+445,NGA,2012-09-01,2012-09-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7009.0,September,2012.0,2012,,79.738313,X,base year is 2015
+446,NGA,2013-09-01,2013-09-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7009.0,September,2013.0,2013,,86.036484,X,base year is 2015
+447,NGA,2014-09-01,2014-09-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7009.0,September,2014.0,2014,,93.207154,X,base year is 2015
+448,NGA,2015-09-01,2015-09-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7009.0,September,2015.0,2015,,101.961034,X,base year is 2015
+449,NGA,2016-09-01,2016-09-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7009.0,September,2016.0,2016,,120.164036,X,base year is 2015
+450,NGA,2017-09-01,2017-09-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7009.0,September,2017.0,2017,,139.365048,X,base year is 2015
+451,NGA,2018-09-01,2018-09-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7009.0,September,2018.0,2018,,155.085240,X,base year is 2015
+452,NGA,2019-09-01,2019-09-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7009.0,September,2019.0,2019,,172.529394,X,base year is 2015
+453,NGA,2020-09-01,2020-09-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7009.0,September,2020.0,2020,,196.178914,X,base year is 2015
+454,NGA,2000-10-01,2000-10-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7010.0,October,2000.0,2000,,19.804828,X,base year is 2015
+455,NGA,2001-10-01,2001-10-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7010.0,October,2001.0,2001,,23.633432,X,base year is 2015
+456,NGA,2002-10-01,2002-10-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7010.0,October,2002.0,2002,,24.902540,X,base year is 2015
+457,NGA,2003-10-01,2003-10-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7010.0,October,2003.0,2003,,30.786912,X,base year is 2015
+458,NGA,2004-10-01,2004-10-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7010.0,October,2004.0,2004,,34.070132,X,base year is 2015
+459,NGA,2005-10-01,2005-10-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7010.0,October,2005.0,2005,,40.406523,X,base year is 2015
+460,NGA,2006-10-01,2006-10-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7010.0,October,2006.0,2006,,42.885345,X,base year is 2015
+461,NGA,2007-10-01,2007-10-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7010.0,October,2007.0,2007,,44.838356,X,base year is 2015
+462,NGA,2008-10-01,2008-10-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7010.0,October,2008.0,2008,,51.448546,X,base year is 2015
+463,NGA,2009-10-01,2009-10-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7010.0,October,2009.0,2009,,57.434698,X,base year is 2015
+464,NGA,2010-10-01,2010-10-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7010.0,October,2010.0,2010,,65.119622,X,base year is 2015
+465,NGA,2011-10-01,2011-10-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7010.0,October,2011.0,2011,,71.995607,X,base year is 2015
+466,NGA,2012-10-01,2012-10-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7010.0,October,2012.0,2012,,80.431689,X,base year is 2015
+467,NGA,2013-10-01,2013-10-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7010.0,October,2013.0,2013,,86.672079,X,base year is 2015
+468,NGA,2014-10-01,2014-10-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7010.0,October,2014.0,2014,,93.680961,X,base year is 2015
+469,NGA,2015-10-01,2015-10-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7010.0,October,2015.0,2015,,102.388616,X,base year is 2015
+470,NGA,2016-10-01,2016-10-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7010.0,October,2016.0,2016,,121.167567,X,base year is 2015
+471,NGA,2017-10-01,2017-10-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7010.0,October,2017.0,2017,,140.426825,X,base year is 2015
+472,NGA,2018-10-01,2018-10-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7010.0,October,2018.0,2018,,156.237912,X,base year is 2015
+473,NGA,2019-10-01,2019-10-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7010.0,October,2019.0,2019,,174.372417,X,base year is 2015
+474,NGA,2020-10-01,2020-10-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7010.0,October,2020.0,2020,,199.199956,X,base year is 2015
+475,NGA,2000-11-01,2000-11-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7011.0,November,2000.0,2000,,19.533877,X,base year is 2015
+476,NGA,2001-11-01,2001-11-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7011.0,November,2001.0,2001,,22.938408,X,base year is 2015
+477,NGA,2002-11-01,2002-11-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7011.0,November,2002.0,2002,,25.725773,X,base year is 2015
+478,NGA,2003-11-01,2003-11-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7011.0,November,2003.0,2003,,31.190587,X,base year is 2015
+479,NGA,2004-11-01,2004-11-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7011.0,November,2004.0,2004,,34.339248,X,base year is 2015
+480,NGA,2005-11-01,2005-11-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7011.0,November,2005.0,2005,,39.516690,X,base year is 2015
+481,NGA,2006-11-01,2006-11-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7011.0,November,2006.0,2006,,42.579103,X,base year is 2015
+482,NGA,2007-11-01,2007-11-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7011.0,November,2007.0,2007,,44.780574,X,base year is 2015
+483,NGA,2008-11-01,2008-11-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7011.0,November,2008.0,2008,,51.419656,X,base year is 2015
+484,NGA,2009-11-01,2009-11-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7011.0,November,2009.0,2009,,57.781386,X,base year is 2015
+485,NGA,2010-11-01,2010-11-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7011.0,November,2010.0,2010,,65.177404,X,base year is 2015
+486,NGA,2011-11-01,2011-11-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7011.0,November,2011.0,2011,,72.053389,X,base year is 2015
+487,NGA,2012-11-01,2012-11-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7011.0,November,2012.0,2012,,80.893941,X,base year is 2015
+488,NGA,2013-11-01,2013-11-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7011.0,November,2013.0,2013,,87.313453,X,base year is 2015
+489,NGA,2014-11-01,2014-11-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7011.0,November,2014.0,2014,,94.241441,X,base year is 2015
+490,NGA,2015-11-01,2015-11-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7011.0,November,2015.0,2015,,103.064658,X,base year is 2015
+491,NGA,2016-11-01,2016-11-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7011.0,November,2016.0,2016,,122.092069,X,base year is 2015
+492,NGA,2017-11-01,2017-11-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7011.0,November,2017.0,2017,,141.524469,X,base year is 2015
+493,NGA,2018-11-01,2018-11-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7011.0,November,2018.0,2018,,157.489402,X,base year is 2015
+494,NGA,2019-11-01,2019-11-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7011.0,November,2019.0,2019,,176.157436,X,base year is 2015
+495,NGA,2020-11-01,2020-11-30,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7011.0,November,2020.0,2020,,202.346875,X,base year is 2015
+496,NGA,2000-12-01,2000-12-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7012.0,December,2000.0,2000,,19.612256,X,base year is 2015
+497,NGA,2001-12-01,2001-12-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7012.0,December,2001.0,2001,,22.847572,X,base year is 2015
+498,NGA,2002-12-01,2002-12-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7012.0,December,2002.0,2002,,25.627670,X,base year is 2015
+499,NGA,2003-12-01,2003-12-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7012.0,December,2003.0,2003,,31.728819,X,base year is 2015
+500,NGA,2004-12-01,2004-12-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7012.0,December,2004.0,2004,,34.904392,X,base year is 2015
+501,NGA,2005-12-01,2005-12-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7012.0,December,2005.0,2005,,38.927320,X,base year is 2015
+502,NGA,2006-12-01,2006-12-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7012.0,December,2006.0,2006,,42.255528,X,base year is 2015
+503,NGA,2007-12-01,2007-12-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7012.0,December,2007.0,2007,,45.029034,X,base year is 2015
+504,NGA,2008-12-01,2008-12-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7012.0,December,2008.0,2008,,51.806791,X,base year is 2015
+505,NGA,2009-12-01,2009-12-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7012.0,December,2009.0,2009,,59.052577,X,base year is 2015
+506,NGA,2010-12-01,2010-12-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7012.0,December,2010.0,2010,,65.986343,X,base year is 2015
+507,NGA,2011-12-01,2011-12-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7012.0,December,2011.0,2011,,72.804547,X,base year is 2015
+508,NGA,2012-12-01,2012-12-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7012.0,December,2012.0,2012,,81.529536,X,base year is 2015
+509,NGA,2013-12-01,2013-12-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7012.0,December,2013.0,2013,,87.995273,X,base year is 2015
+510,NGA,2014-12-01,2014-12-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7012.0,December,2014.0,2014,,94.992599,X,base year is 2015
+511,NGA,2015-12-01,2015-12-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7012.0,December,2015.0,2015,,104.093167,X,base year is 2015
+512,NGA,2016-12-01,2016-12-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7012.0,December,2016.0,2016,,123.421041,X,base year is 2015
+513,NGA,2017-12-01,2017-12-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7012.0,December,2017.0,2017,,142.364088,X,base year is 2015
+514,NGA,2018-12-01,2018-12-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7012.0,December,2018.0,2018,,158.653093,X,base year is 2015
+515,NGA,2019-12-01,2019-12-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7012.0,December,2019.0,2019,,177.662223,X,base year is 2015
+516,NGA,2020-12-01,2020-12-31,159.0,Nigeria,23012,"Consumer Prices, General Indices (2015 = 100)",7012.0,December,2020.0,2020,,205.619671,X,base year is 2015
+517,NGA,2001-01-01,2001-01-31,159.0,Nigeria,23014,Food price inflation,7001.0,January,2001.0,2001,%,4.595669,Fc,
+518,NGA,2002-01-01,2002-01-31,159.0,Nigeria,23014,Food price inflation,7001.0,January,2002.0,2002,%,26.466854,Fc,
+519,NGA,2003-01-01,2003-01-31,159.0,Nigeria,23014,Food price inflation,7001.0,January,2003.0,2003,%,12.488283,Fc,
+520,NGA,2004-01-01,2004-01-31,159.0,Nigeria,23014,Food price inflation,7001.0,January,2004.0,2004,%,6.899173,Fc,
+521,NGA,2005-01-01,2005-01-31,159.0,Nigeria,23014,Food price inflation,7001.0,January,2005.0,2005,%,15.133329,Fc,
+522,NGA,2006-01-01,2006-01-31,159.0,Nigeria,23014,Food price inflation,7001.0,January,2006.0,2006,%,14.585466,Fc,
+523,NGA,2007-01-01,2007-01-31,159.0,Nigeria,23014,Food price inflation,7001.0,January,2007.0,2007,%,0.044663,Fc,
+524,NGA,2008-01-01,2008-01-31,159.0,Nigeria,23014,Food price inflation,7001.0,January,2008.0,2008,%,12.752976,Fc,
+525,NGA,2009-01-01,2009-01-31,159.0,Nigeria,23014,Food price inflation,7001.0,January,2009.0,2009,%,18.120628,Fc,
+526,NGA,2010-01-01,2010-01-31,159.0,Nigeria,23014,Food price inflation,7001.0,January,2010.0,2010,%,16.089385,Fc,
+527,NGA,2011-01-01,2011-01-31,159.0,Nigeria,23014,Food price inflation,7001.0,January,2011.0,2011,%,14.234841,Fc,
+528,NGA,2012-01-01,2012-01-31,159.0,Nigeria,23014,Food price inflation,7001.0,January,2012.0,2012,%,10.203050,Fc,
+529,NGA,2013-01-01,2013-01-31,159.0,Nigeria,23014,Food price inflation,7001.0,January,2013.0,2013,%,8.562691,Fc,
+530,NGA,2014-01-01,2014-01-31,159.0,Nigeria,23014,Food price inflation,7001.0,January,2014.0,2014,%,9.295775,Fc,
+531,NGA,2015-01-01,2015-01-31,159.0,Nigeria,23014,Food price inflation,7001.0,January,2015.0,2015,%,9.149485,Fc,
+532,NGA,2016-01-01,2016-01-31,159.0,Nigeria,23014,Food price inflation,7001.0,January,2016.0,2016,%,10.737898,Fc,
+533,NGA,2017-01-01,2017-01-31,159.0,Nigeria,23014,Food price inflation,7001.0,January,2017.0,2017,%,17.512498,Fc,
+534,NGA,2018-01-01,2018-01-31,159.0,Nigeria,23014,Food price inflation,7001.0,January,2018.0,2018,%,18.878005,Fc,
+535,NGA,2019-01-01,2019-01-31,159.0,Nigeria,23014,Food price inflation,7001.0,January,2019.0,2019,%,13.459776,Fc,
+536,NGA,2020-01-01,2020-01-31,159.0,Nigeria,23014,Food price inflation,7001.0,January,2020.0,2020,%,14.764927,Fc,
+537,NGA,2021-01-01,2021-01-31,159.0,Nigeria,23014,Food price inflation,7001.0,January,2021.0,2021,%,20.432837,Fc,
+538,NGA,2001-02-01,2001-02-28,159.0,Nigeria,23014,Food price inflation,7002.0,February,2001.0,2001,%,6.767671,Fc,
+539,NGA,2002-02-01,2002-02-28,159.0,Nigeria,23014,Food price inflation,7002.0,February,2002.0,2002,%,24.984703,Fc,
+540,NGA,2003-02-01,2003-02-28,159.0,Nigeria,23014,Food price inflation,7002.0,February,2003.0,2003,%,11.853729,Fc,
+541,NGA,2004-02-01,2004-02-29,159.0,Nigeria,23014,Food price inflation,7002.0,February,2004.0,2004,%,7.607457,Fc,
+542,NGA,2005-02-01,2005-02-28,159.0,Nigeria,23014,Food price inflation,7002.0,February,2005.0,2005,%,17.732747,Fc,
+543,NGA,2006-02-01,2006-02-28,159.0,Nigeria,23014,Food price inflation,7002.0,February,2006.0,2006,%,10.436933,Fc,
+544,NGA,2007-02-01,2007-02-28,159.0,Nigeria,23014,Food price inflation,7002.0,February,2007.0,2007,%,3.448791,Fc,
+545,NGA,2008-02-01,2008-02-29,159.0,Nigeria,23014,Food price inflation,7002.0,February,2008.0,2008,%,8.818011,Fc,
+546,NGA,2009-02-01,2009-02-28,159.0,Nigeria,23014,Food price inflation,7002.0,February,2009.0,2009,%,19.628647,Fc,
+547,NGA,2010-02-01,2010-02-28,159.0,Nigeria,23014,Food price inflation,7002.0,February,2010.0,2010,%,16.851441,Fc,
+548,NGA,2011-02-01,2011-02-28,159.0,Nigeria,23014,Food price inflation,7002.0,February,2011.0,2011,%,11.859583,Fc,
+549,NGA,2012-02-01,2012-02-29,159.0,Nigeria,23014,Food price inflation,7002.0,February,2012.0,2012,%,9.499576,Fc,
+550,NGA,2013-02-01,2013-02-28,159.0,Nigeria,23014,Food price inflation,7002.0,February,2013.0,2013,%,10.766847,Fc,
+551,NGA,2014-02-01,2014-02-28,159.0,Nigeria,23014,Food price inflation,7002.0,February,2014.0,2014,%,9.146853,Fc,
+552,NGA,2015-02-01,2015-02-28,159.0,Nigeria,23014,Food price inflation,7002.0,February,2015.0,2015,%,9.328549,Fc,
+553,NGA,2016-02-01,2016-02-29,159.0,Nigeria,23014,Food price inflation,7002.0,February,2016.0,2016,%,11.286920,Fc,
+554,NGA,2017-02-01,2017-02-28,159.0,Nigeria,23014,Food price inflation,7002.0,February,2017.0,2017,%,18.380235,Fc,
+555,NGA,2018-02-01,2018-02-28,159.0,Nigeria,23014,Food price inflation,7002.0,February,2018.0,2018,%,17.558814,Fc,
+556,NGA,2019-02-01,2019-02-28,159.0,Nigeria,23014,Food price inflation,7002.0,February,2019.0,2019,%,13.425750,Fc,
+557,NGA,2020-02-01,2020-02-29,159.0,Nigeria,23014,Food price inflation,7002.0,February,2020.0,2020,%,14.820845,Fc,
+558,NGA,2021-02-01,2021-02-28,159.0,Nigeria,23014,Food price inflation,7002.0,February,2021.0,2021,%,21.637604,Fc,
+559,NGA,2001-03-01,2001-03-31,159.0,Nigeria,23014,Food price inflation,7003.0,March,2001.0,2001,%,8.930983,Fc,
+560,NGA,2002-03-01,2002-03-31,159.0,Nigeria,23014,Food price inflation,7003.0,March,2002.0,2002,%,23.567234,Fc,
+561,NGA,2003-03-01,2003-03-31,159.0,Nigeria,23014,Food price inflation,7003.0,March,2003.0,2003,%,11.232626,Fc,
+562,NGA,2004-03-01,2004-03-31,159.0,Nigeria,23014,Food price inflation,7003.0,March,2004.0,2004,%,8.308552,Fc,
+563,NGA,2005-03-01,2005-03-31,159.0,Nigeria,23014,Food price inflation,7003.0,March,2005.0,2005,%,20.233924,Fc,
+564,NGA,2006-03-01,2006-03-31,159.0,Nigeria,23014,Food price inflation,7003.0,March,2006.0,2006,%,9.336100,Fc,
+565,NGA,2007-03-01,2007-03-31,159.0,Nigeria,23014,Food price inflation,7003.0,March,2007.0,2007,%,1.809955,Fc,
+566,NGA,2008-03-01,2008-03-31,159.0,Nigeria,23014,Food price inflation,7003.0,March,2008.0,2008,%,12.473118,Fc,
+567,NGA,2009-03-01,2009-03-31,159.0,Nigeria,23014,Food price inflation,7003.0,March,2009.0,2009,%,15.997451,Fc,
+568,NGA,2010-03-01,2010-03-31,159.0,Nigeria,23014,Food price inflation,7003.0,March,2010.0,2010,%,15.714286,Fc,
+569,NGA,2011-03-01,2011-03-31,159.0,Nigeria,23014,Food price inflation,7003.0,March,2011.0,2011,%,12.250712,Fc,
+570,NGA,2012-03-01,2012-03-31,159.0,Nigeria,23014,Food price inflation,7003.0,March,2012.0,2012,%,11.590525,Fc,
+571,NGA,2013-03-01,2013-03-31,159.0,Nigeria,23014,Food price inflation,7003.0,March,2013.0,2013,%,9.401061,Fc,
+572,NGA,2014-03-01,2014-03-31,159.0,Nigeria,23014,Food price inflation,7003.0,March,2014.0,2014,%,9.251559,Fc,
+573,NGA,2015-03-01,2015-03-31,159.0,Nigeria,23014,Food price inflation,7003.0,March,2015.0,2015,%,9.343482,Fc,
+574,NGA,2016-03-01,2016-03-31,159.0,Nigeria,23014,Food price inflation,7003.0,March,2016.0,2016,%,12.658081,Fc,
+575,NGA,2017-03-01,2017-03-31,159.0,Nigeria,23014,Food price inflation,7003.0,March,2017.0,2017,%,18.303420,Fc,
+576,NGA,2018-03-01,2018-03-31,159.0,Nigeria,23014,Food price inflation,7003.0,March,2018.0,2018,%,16.062324,Fc,
+577,NGA,2019-03-01,2019-03-31,159.0,Nigeria,23014,Food price inflation,7003.0,March,2019.0,2019,%,13.401634,Fc,
+578,NGA,2020-03-01,2020-03-31,159.0,Nigeria,23014,Food price inflation,7003.0,March,2020.0,2020,%,14.893220,Fc,
+579,NGA,2021-03-01,2021-03-31,159.0,Nigeria,23014,Food price inflation,7003.0,March,2021.0,2021,%,22.787313,Fc,
+580,NGA,2001-04-01,2001-04-30,159.0,Nigeria,23014,Food price inflation,7004.0,April,2001.0,2001,%,11.085658,Fc,
+581,NGA,2002-04-01,2002-04-30,159.0,Nigeria,23014,Food price inflation,7004.0,April,2002.0,2002,%,22.210303,Fc,
+582,NGA,2003-04-01,2003-04-30,159.0,Nigeria,23014,Food price inflation,7004.0,April,2003.0,2003,%,10.624551,Fc,
+583,NGA,2004-04-01,2004-04-30,159.0,Nigeria,23014,Food price inflation,7004.0,April,2004.0,2004,%,9.002567,Fc,
+584,NGA,2005-04-01,2005-04-30,159.0,Nigeria,23014,Food price inflation,7004.0,April,2005.0,2005,%,19.130790,Fc,
+585,NGA,2006-04-01,2006-04-30,159.0,Nigeria,23014,Food price inflation,7004.0,April,2006.0,2006,%,9.522293,Fc,
+586,NGA,2007-04-01,2007-04-30,159.0,Nigeria,23014,Food price inflation,7004.0,April,2007.0,2007,%,2.428031,Fc,
+587,NGA,2008-04-01,2008-04-30,159.0,Nigeria,23014,Food price inflation,7004.0,April,2008.0,2008,%,13.073101,Fc,
+588,NGA,2009-04-01,2009-04-30,159.0,Nigeria,23014,Food price inflation,7004.0,April,2009.0,2009,%,15.114236,Fc,
+589,NGA,2010-04-01,2010-04-30,159.0,Nigeria,23014,Food price inflation,7004.0,April,2010.0,2010,%,16.357688,Fc,
+590,NGA,2011-04-01,2011-04-30,159.0,Nigeria,23014,Food price inflation,7004.0,April,2011.0,2011,%,10.590440,Fc,
+591,NGA,2012-04-01,2012-04-30,159.0,Nigeria,23014,Food price inflation,7004.0,April,2012.0,2012,%,11.949153,Fc,
+592,NGA,2013-04-01,2013-04-30,159.0,Nigeria,23014,Food price inflation,7004.0,April,2013.0,2013,%,9.992430,Fc,
+593,NGA,2014-04-01,2014-04-30,159.0,Nigeria,23014,Food price inflation,7004.0,April,2014.0,2014,%,9.353063,Fc,
+594,NGA,2015-04-01,2015-04-30,159.0,Nigeria,23014,Food price inflation,7004.0,April,2015.0,2015,%,9.446787,Fc,
+595,NGA,2016-04-01,2016-04-30,159.0,Nigeria,23014,Food price inflation,7004.0,April,2016.0,2016,%,13.110983,Fc,
+596,NGA,2017-04-01,2017-04-30,159.0,Nigeria,23014,Food price inflation,7004.0,April,2017.0,2017,%,19.177842,Fc,
+597,NGA,2018-04-01,2018-04-30,159.0,Nigeria,23014,Food price inflation,7004.0,April,2018.0,2018,%,14.783901,Fc,
+598,NGA,2019-04-01,2019-04-30,159.0,Nigeria,23014,Food price inflation,7004.0,April,2019.0,2019,%,13.646383,Fc,
+599,NGA,2020-04-01,2020-04-30,159.0,Nigeria,23014,Food price inflation,7004.0,April,2020.0,2020,%,14.944322,Fc,
+600,NGA,2021-04-01,2021-04-30,159.0,Nigeria,23014,Food price inflation,7004.0,April,2021.0,2021,%,22.582963,Fc,
+601,NGA,2001-05-01,2001-05-31,159.0,Nigeria,23014,Food price inflation,7005.0,May,2001.0,2001,%,13.231747,Fc,
+602,NGA,2002-05-01,2002-05-31,159.0,Nigeria,23014,Food price inflation,7005.0,May,2002.0,2002,%,20.910113,Fc,
+603,NGA,2003-05-01,2003-05-31,159.0,Nigeria,23014,Food price inflation,7005.0,May,2003.0,2003,%,10.029100,Fc,
+604,NGA,2004-05-01,2004-05-31,159.0,Nigeria,23014,Food price inflation,7005.0,May,2004.0,2004,%,9.689610,Fc,
+605,NGA,2005-05-01,2005-05-31,159.0,Nigeria,23014,Food price inflation,7005.0,May,2005.0,2005,%,18.915282,Fc,
+606,NGA,2006-05-01,2006-05-31,159.0,Nigeria,23014,Food price inflation,7005.0,May,2006.0,2006,%,8.675079,Fc,
+607,NGA,2007-05-01,2007-05-31,159.0,Nigeria,23014,Food price inflation,7005.0,May,2007.0,2007,%,2.539913,Fc,
+608,NGA,2008-05-01,2008-05-31,159.0,Nigeria,23014,Food price inflation,7005.0,May,2008.0,2008,%,14.607219,Fc,
+609,NGA,2009-05-01,2009-05-31,159.0,Nigeria,23014,Food price inflation,7005.0,May,2009.0,2009,%,15.474867,Fc,
+610,NGA,2010-05-01,2010-05-31,159.0,Nigeria,23014,Food price inflation,7005.0,May,2010.0,2010,%,13.582888,Fc,
+611,NGA,2011-05-01,2011-05-31,159.0,Nigeria,23014,Food price inflation,7005.0,May,2011.0,2011,%,11.581921,Fc,
+612,NGA,2012-05-01,2012-05-31,159.0,Nigeria,23014,Food price inflation,7005.0,May,2012.0,2012,%,12.827004,Fc,
+613,NGA,2013-05-01,2013-05-31,159.0,Nigeria,23014,Food price inflation,7005.0,May,2013.0,2013,%,9.274495,Fc,
+614,NGA,2014-05-01,2014-05-31,159.0,Nigeria,23014,Food price inflation,7005.0,May,2014.0,2014,%,9.630390,Fc,
+615,NGA,2015-05-01,2015-05-31,159.0,Nigeria,23014,Food price inflation,7005.0,May,2015.0,2015,%,9.752138,Fc,
+616,NGA,2016-05-01,2016-05-31,159.0,Nigeria,23014,Food price inflation,7005.0,May,2016.0,2016,%,14.749912,Fc,
+617,NGA,2017-05-01,2017-05-31,159.0,Nigeria,23014,Food price inflation,7005.0,May,2017.0,2017,%,19.145317,Fc,
+618,NGA,2018-05-01,2018-05-31,159.0,Nigeria,23014,Food price inflation,7005.0,May,2018.0,2018,%,13.438234,Fc,
+619,NGA,2019-05-01,2019-05-31,159.0,Nigeria,23014,Food price inflation,7005.0,May,2019.0,2019,%,13.734976,Fc,
+620,NGA,2020-05-01,2020-05-31,159.0,Nigeria,23014,Food price inflation,7005.0,May,2020.0,2020,%,14.956394,Fc,
+621,NGA,2021-05-01,2021-05-31,159.0,Nigeria,23014,Food price inflation,7005.0,May,2021.0,2021,%,22.143298,Fc,
+622,NGA,2001-06-01,2001-06-30,159.0,Nigeria,23014,Food price inflation,7006.0,June,2001.0,2001,%,15.369301,Fc,
+623,NGA,2002-06-01,2002-06-30,159.0,Nigeria,23014,Food price inflation,7006.0,June,2002.0,2002,%,19.663176,Fc,
+624,NGA,2003-06-01,2003-06-30,159.0,Nigeria,23014,Food price inflation,7006.0,June,2003.0,2003,%,9.445881,Fc,
+625,NGA,2004-06-01,2004-06-30,159.0,Nigeria,23014,Food price inflation,7006.0,June,2004.0,2004,%,10.369784,Fc,
+626,NGA,2005-06-01,2005-06-30,159.0,Nigeria,23014,Food price inflation,7006.0,June,2005.0,2005,%,21.152853,Fc,
+627,NGA,2006-06-01,2006-06-30,159.0,Nigeria,23014,Food price inflation,7006.0,June,2006.0,2006,%,6.184936,Fc,
+628,NGA,2007-06-01,2007-06-30,159.0,Nigeria,23014,Food price inflation,7006.0,June,2007.0,2007,%,3.460208,Fc,
+629,NGA,2008-06-01,2008-06-30,159.0,Nigeria,23014,Food price inflation,7006.0,June,2008.0,2008,%,17.920847,Fc,
+630,NGA,2009-06-01,2009-06-30,159.0,Nigeria,23014,Food price inflation,7006.0,June,2009.0,2009,%,12.975656,Fc,
+631,NGA,2010-06-01,2010-06-30,159.0,Nigeria,23014,Food price inflation,7006.0,June,2010.0,2010,%,15.271967,Fc,
+632,NGA,2011-06-01,2011-06-30,159.0,Nigeria,23014,Food price inflation,7006.0,June,2011.0,2011,%,8.439201,Fc,
+633,NGA,2012-06-01,2012-06-30,159.0,Nigeria,23014,Food price inflation,7006.0,June,2012.0,2012,%,12.384937,Fc,
+634,NGA,2013-06-01,2013-06-30,159.0,Nigeria,23014,Food price inflation,7006.0,June,2013.0,2013,%,9.530901,Fc,
+635,NGA,2014-06-01,2014-06-30,159.0,Nigeria,23014,Food price inflation,7006.0,June,2014.0,2014,%,9.775663,Fc,
+636,NGA,2015-06-01,2015-06-30,159.0,Nigeria,23014,Food price inflation,7006.0,June,2015.0,2015,%,10.001239,Fc,
+637,NGA,2016-06-01,2016-06-30,159.0,Nigeria,23014,Food price inflation,7006.0,June,2016.0,2016,%,15.183246,Fc,
+638,NGA,2017-06-01,2017-06-30,159.0,Nigeria,23014,Food price inflation,7006.0,June,2017.0,2017,%,19.811828,Fc,
+639,NGA,2018-06-01,2018-06-30,159.0,Nigeria,23014,Food price inflation,7006.0,June,2018.0,2018,%,12.954986,Fc,
+640,NGA,2019-06-01,2019-06-30,159.0,Nigeria,23014,Food price inflation,7006.0,June,2019.0,2019,%,13.499968,Fc,
+641,NGA,2020-06-01,2020-06-30,159.0,Nigeria,23014,Food price inflation,7006.0,June,2020.0,2020,%,15.070021,Fc,
+642,NGA,2021-06-01,2021-06-30,159.0,Nigeria,23014,Food price inflation,7006.0,June,2021.0,2021,%,23.654738,Fc,
+643,NGA,2001-07-01,2001-07-31,159.0,Nigeria,23014,Food price inflation,7007.0,July,2001.0,2001,%,17.498372,Fc,
+644,NGA,2002-07-01,2002-07-31,159.0,Nigeria,23014,Food price inflation,7007.0,July,2002.0,2002,%,18.466289,Fc,
+645,NGA,2003-07-01,2003-07-31,159.0,Nigeria,23014,Food price inflation,7007.0,July,2003.0,2003,%,8.874523,Fc,
+646,NGA,2004-07-01,2004-07-31,159.0,Nigeria,23014,Food price inflation,7007.0,July,2004.0,2004,%,11.043192,Fc,
+647,NGA,2005-07-01,2005-07-31,159.0,Nigeria,23014,Food price inflation,7007.0,July,2005.0,2005,%,34.934204,Fc,
+648,NGA,2006-07-01,2006-07-31,159.0,Nigeria,23014,Food price inflation,7007.0,July,2006.0,2006,%,-3.575313,Fc,
+649,NGA,2007-07-01,2007-07-31,159.0,Nigeria,23014,Food price inflation,7007.0,July,2007.0,2007,%,1.466234,Fc,
+650,NGA,2008-07-01,2008-07-31,159.0,Nigeria,23014,Food price inflation,7007.0,July,2008.0,2008,%,20.591913,Fc,
+651,NGA,2009-07-01,2009-07-31,159.0,Nigeria,23014,Food price inflation,7007.0,July,2009.0,2009,%,12.685793,Fc,
+652,NGA,2010-07-01,2010-07-31,159.0,Nigeria,23014,Food price inflation,7007.0,July,2010.0,2010,%,14.519427,Fc,
+653,NGA,2011-07-01,2011-07-31,159.0,Nigeria,23014,Food price inflation,7007.0,July,2011.0,2011,%,7.321429,Fc,
+654,NGA,2012-07-01,2012-07-31,159.0,Nigeria,23014,Food price inflation,7007.0,July,2012.0,2012,%,12.063228,Fc,
+655,NGA,2013-07-01,2013-07-31,159.0,Nigeria,23014,Food price inflation,7007.0,July,2013.0,2013,%,9.948033,Fc,
+656,NGA,2014-07-01,2014-07-31,159.0,Nigeria,23014,Food price inflation,7007.0,July,2014.0,2014,%,9.858204,Fc,
+657,NGA,2015-07-01,2015-07-31,159.0,Nigeria,23014,Food price inflation,7007.0,July,2015.0,2015,%,10.012293,Fc,
+658,NGA,2016-07-01,2016-07-31,159.0,Nigeria,23014,Food price inflation,7007.0,July,2016.0,2016,%,15.678038,Fc,
+659,NGA,2017-07-01,2017-07-31,159.0,Nigeria,23014,Food price inflation,7007.0,July,2017.0,2017,%,20.190327,Fc,
+660,NGA,2018-07-01,2018-07-31,159.0,Nigeria,23014,Food price inflation,7007.0,July,2018.0,2018,%,12.820724,Fc,
+661,NGA,2019-07-01,2019-07-31,159.0,Nigeria,23014,Food price inflation,7007.0,July,2019.0,2019,%,13.332615,Fc,
+662,NGA,2020-07-01,2020-07-31,159.0,Nigeria,23014,Food price inflation,7007.0,July,2020.0,2020,%,15.381488,Fc,
+663,NGA,2001-08-01,2001-08-31,159.0,Nigeria,23014,Food price inflation,7008.0,August,2001.0,2001,%,19.619009,Fc,
+664,NGA,2002-08-01,2002-08-31,159.0,Nigeria,23014,Food price inflation,7008.0,August,2002.0,2002,%,17.316495,Fc,
+665,NGA,2003-08-01,2003-08-31,159.0,Nigeria,23014,Food price inflation,7008.0,August,2003.0,2003,%,8.314668,Fc,
+666,NGA,2004-08-01,2004-08-31,159.0,Nigeria,23014,Food price inflation,7008.0,August,2004.0,2004,%,11.709936,Fc,
+667,NGA,2005-08-01,2005-08-31,159.0,Nigeria,23014,Food price inflation,7008.0,August,2005.0,2005,%,38.490850,Fc,
+668,NGA,2006-08-01,2006-08-31,159.0,Nigeria,23014,Food price inflation,7008.0,August,2006.0,2006,%,-2.069959,Fc,
+669,NGA,2007-08-01,2007-08-31,159.0,Nigeria,23014,Food price inflation,7008.0,August,2007.0,2007,%,-0.936455,Fc,
+670,NGA,2008-08-01,2008-08-31,159.0,Nigeria,23014,Food price inflation,7008.0,August,2008.0,2008,%,18.555030,Fc,
+671,NGA,2009-08-01,2009-08-31,159.0,Nigeria,23014,Food price inflation,7008.0,August,2009.0,2009,%,12.655200,Fc,
+672,NGA,2010-08-01,2010-08-31,159.0,Nigeria,23014,Food price inflation,7008.0,August,2010.0,2010,%,15.369060,Fc,
+673,NGA,2011-08-01,2011-08-31,159.0,Nigeria,23014,Food price inflation,7008.0,August,2011.0,2011,%,8.150745,Fc,
+674,NGA,2012-08-01,2012-08-31,159.0,Nigeria,23014,Food price inflation,7008.0,August,2012.0,2012,%,9.967585,Fc,
+675,NGA,2013-08-01,2013-08-31,159.0,Nigeria,23014,Food price inflation,7008.0,August,2013.0,2013,%,9.653648,Fc,
+676,NGA,2014-08-01,2014-08-31,159.0,Nigeria,23014,Food price inflation,7008.0,August,2014.0,2014,%,9.939516,Fc,
+677,NGA,2015-08-01,2015-08-31,159.0,Nigeria,23014,Food price inflation,7008.0,August,2015.0,2015,%,10.098417,Fc,
+678,NGA,2016-08-01,2016-08-31,159.0,Nigeria,23014,Food price inflation,7008.0,August,2016.0,2016,%,14.733548,Fc,
+679,NGA,2017-08-01,2017-08-31,159.0,Nigeria,23014,Food price inflation,7008.0,August,2017.0,2017,%,21.800960,Fc,
+680,NGA,2018-08-01,2018-08-31,159.0,Nigeria,23014,Food price inflation,7008.0,August,2018.0,2018,%,13.122134,Fc,
+681,NGA,2019-08-01,2019-08-31,159.0,Nigeria,23014,Food price inflation,7008.0,August,2019.0,2019,%,13.112879,Fc,
+682,NGA,2020-08-01,2020-08-31,159.0,Nigeria,23014,Food price inflation,7008.0,August,2020.0,2020,%,15.910418,Fc,
+683,NGA,2001-09-01,2001-09-30,159.0,Nigeria,23014,Food price inflation,7009.0,September,2001.0,2001,%,21.731262,Fc,
+684,NGA,2002-09-01,2002-09-30,159.0,Nigeria,23014,Food price inflation,7009.0,September,2002.0,2002,%,16.211071,Fc,
+685,NGA,2003-09-01,2003-09-30,159.0,Nigeria,23014,Food price inflation,7009.0,September,2003.0,2003,%,7.765971,Fc,
+686,NGA,2004-09-01,2004-09-30,159.0,Nigeria,23014,Food price inflation,7009.0,September,2004.0,2004,%,12.370112,Fc,
+687,NGA,2005-09-01,2005-09-30,159.0,Nigeria,23014,Food price inflation,7009.0,September,2005.0,2005,%,30.986535,Fc,
+688,NGA,2006-09-01,2006-09-30,159.0,Nigeria,23014,Food price inflation,7009.0,September,2006.0,2006,%,4.179227,Fc,
+689,NGA,2007-09-01,2007-09-30,159.0,Nigeria,23014,Food price inflation,7009.0,September,2007.0,2007,%,-0.434039,Fc,
+690,NGA,2008-09-01,2008-09-30,159.0,Nigeria,23014,Food price inflation,7009.0,September,2008.0,2008,%,16.948481,Fc,
+691,NGA,2009-09-01,2009-09-30,159.0,Nigeria,23014,Food price inflation,7009.0,September,2009.0,2009,%,12.391280,Fc,
+692,NGA,2010-09-01,2010-09-30,159.0,Nigeria,23014,Food price inflation,7009.0,September,2010.0,2010,%,14.070352,Fc,
+693,NGA,2011-09-01,2011-09-30,159.0,Nigeria,23014,Food price inflation,7009.0,September,2011.0,2011,%,9.427313,Fc,
+694,NGA,2012-09-01,2012-09-30,159.0,Nigeria,23014,Food price inflation,7009.0,September,2012.0,2012,%,10.466989,Fc,
+695,NGA,2013-09-01,2013-09-30,159.0,Nigeria,23014,Food price inflation,7009.0,September,2013.0,2013,%,9.402332,Fc,
+696,NGA,2014-09-01,2014-09-30,159.0,Nigeria,23014,Food price inflation,7009.0,September,2014.0,2014,%,9.640240,Fc,
+697,NGA,2015-09-01,2015-09-30,159.0,Nigeria,23014,Food price inflation,7009.0,September,2015.0,2015,%,10.141581,Fc,
+698,NGA,2016-09-01,2016-09-30,159.0,Nigeria,23014,Food price inflation,7009.0,September,2016.0,2016,%,16.480302,Fc,
+699,NGA,2017-09-01,2017-09-30,159.0,Nigeria,23014,Food price inflation,7009.0,September,2017.0,2017,%,20.246348,Fc,
+700,NGA,2018-09-01,2018-09-30,159.0,Nigeria,23014,Food price inflation,7009.0,September,2018.0,2018,%,13.282422,Fc,
+701,NGA,2019-09-01,2019-09-30,159.0,Nigeria,23014,Food price inflation,7009.0,September,2019.0,2019,%,13.429578,Fc,
+702,NGA,2020-09-01,2020-09-30,159.0,Nigeria,23014,Food price inflation,7009.0,September,2020.0,2020,%,16.557554,Fc,
+703,NGA,2001-10-01,2001-10-31,159.0,Nigeria,23014,Food price inflation,7010.0,October,2001.0,2001,%,23.835182,Fc,
+704,NGA,2002-10-01,2002-10-31,159.0,Nigeria,23014,Food price inflation,7010.0,October,2002.0,2002,%,15.147495,Fc,
+705,NGA,2003-10-01,2003-10-31,159.0,Nigeria,23014,Food price inflation,7010.0,October,2003.0,2003,%,7.228101,Fc,
+706,NGA,2004-10-01,2004-10-31,159.0,Nigeria,23014,Food price inflation,7010.0,October,2004.0,2004,%,13.023818,Fc,
+707,NGA,2005-10-01,2005-10-31,159.0,Nigeria,23014,Food price inflation,7010.0,October,2005.0,2005,%,25.329068,Fc,
+708,NGA,2006-10-01,2006-10-31,159.0,Nigeria,23014,Food price inflation,7010.0,October,2006.0,2006,%,4.675545,Fc,
+709,NGA,2007-10-01,2007-10-31,159.0,Nigeria,23014,Food price inflation,7010.0,October,2007.0,2007,%,0.270709,Fc,
+710,NGA,2008-10-01,2008-10-31,159.0,Nigeria,23014,Food price inflation,7010.0,October,2008.0,2008,%,18.884989,Fc,
+711,NGA,2009-10-01,2009-10-31,159.0,Nigeria,23014,Food price inflation,7010.0,October,2009.0,2009,%,13.432497,Fc,
+712,NGA,2010-10-01,2010-10-31,159.0,Nigeria,23014,Food price inflation,7010.0,October,2010.0,2010,%,14.214214,Fc,
+713,NGA,2011-10-01,2011-10-31,159.0,Nigeria,23014,Food price inflation,7010.0,October,2011.0,2011,%,8.939527,Fc,
+714,NGA,2012-10-01,2012-10-31,159.0,Nigeria,23014,Food price inflation,7010.0,October,2012.0,2012,%,11.504425,Fc,
+715,NGA,2013-10-01,2013-10-31,159.0,Nigeria,23014,Food price inflation,7010.0,October,2013.0,2013,%,9.163059,Fc,
+716,NGA,2014-10-01,2014-10-31,159.0,Nigeria,23014,Food price inflation,7010.0,October,2014.0,2014,%,9.312624,Fc,
+717,NGA,2015-10-01,2015-10-31,159.0,Nigeria,23014,Food price inflation,7010.0,October,2015.0,2015,%,10.097346,Fc,
+718,NGA,2016-10-01,2016-10-31,159.0,Nigeria,23014,Food price inflation,7010.0,October,2016.0,2016,%,16.937571,Fc,
+719,NGA,2017-10-01,2017-10-31,159.0,Nigeria,23014,Food price inflation,7010.0,October,2017.0,2017,%,20.238638,Fc,
+720,NGA,2018-10-01,2018-10-31,159.0,Nigeria,23014,Food price inflation,7010.0,October,2018.0,2018,%,13.235252,Fc,
+721,NGA,2019-10-01,2019-10-31,159.0,Nigeria,23014,Food price inflation,7010.0,October,2019.0,2019,%,14.015550,Fc,
+722,NGA,2020-10-01,2020-10-31,159.0,Nigeria,23014,Food price inflation,7010.0,October,2020.0,2020,%,17.265259,Fc,
+723,NGA,2001-11-01,2001-11-30,159.0,Nigeria,23014,Food price inflation,7011.0,November,2001.0,2001,%,25.930817,Fc,
+724,NGA,2002-11-01,2002-11-30,159.0,Nigeria,23014,Food price inflation,7011.0,November,2002.0,2002,%,14.123435,Fc,
+725,NGA,2003-11-01,2003-11-30,159.0,Nigeria,23014,Food price inflation,7011.0,November,2003.0,2003,%,6.700743,Fc,
+726,NGA,2004-11-01,2004-11-30,159.0,Nigeria,23014,Food price inflation,7011.0,November,2004.0,2004,%,13.671148,Fc,
+727,NGA,2005-11-01,2005-11-30,159.0,Nigeria,23014,Food price inflation,7011.0,November,2005.0,2005,%,20.476123,Fc,
+728,NGA,2006-11-01,2006-11-30,159.0,Nigeria,23014,Food price inflation,7011.0,November,2006.0,2006,%,5.498031,Fc,
+729,NGA,2007-11-01,2007-11-30,159.0,Nigeria,23014,Food price inflation,7011.0,November,2007.0,2007,%,3.455903,Fc,
+730,NGA,2008-11-01,2008-11-30,159.0,Nigeria,23014,Food price inflation,7011.0,November,2008.0,2008,%,17.784607,Fc,
+731,NGA,2009-11-01,2009-11-30,159.0,Nigeria,23014,Food price inflation,7011.0,November,2009.0,2009,%,13.442995,Fc,
+732,NGA,2010-11-01,2010-11-30,159.0,Nigeria,23014,Food price inflation,7011.0,November,2010.0,2010,%,14.300000,Fc,
+733,NGA,2011-11-01,2011-11-30,159.0,Nigeria,23014,Food price inflation,7011.0,November,2011.0,2011,%,9.448819,Fc,
+734,NGA,2012-11-01,2012-11-30,159.0,Nigeria,23014,Food price inflation,7011.0,November,2012.0,2012,%,11.590727,Fc,
+735,NGA,2013-11-01,2013-11-30,159.0,Nigeria,23014,Food price inflation,7011.0,November,2013.0,2013,%,9.247851,Fc,
+736,NGA,2014-11-01,2014-11-30,159.0,Nigeria,23014,Food price inflation,7011.0,November,2014.0,2014,%,9.107600,Fc,
+737,NGA,2015-11-01,2015-11-30,159.0,Nigeria,23014,Food price inflation,7011.0,November,2015.0,2015,%,10.282452,Fc,
+738,NGA,2016-11-01,2016-11-30,159.0,Nigeria,23014,Food price inflation,7011.0,November,2016.0,2016,%,17.048256,Fc,
+739,NGA,2017-11-01,2017-11-30,159.0,Nigeria,23014,Food price inflation,7011.0,November,2017.0,2017,%,20.244193,Fc,
+740,NGA,2018-11-01,2018-11-30,159.0,Nigeria,23014,Food price inflation,7011.0,November,2018.0,2018,%,13.258553,Fc,
+741,NGA,2019-11-01,2019-11-30,159.0,Nigeria,23014,Food price inflation,7011.0,November,2019.0,2019,%,14.403202,Fc,
+742,NGA,2020-11-01,2020-11-30,159.0,Nigeria,23014,Food price inflation,7011.0,November,2020.0,2020,%,18.193209,Fc,
+743,NGA,2001-12-01,2001-12-31,159.0,Nigeria,23014,Food price inflation,7012.0,December,2001.0,2001,%,28.018216,Fc,
+744,NGA,2002-12-01,2002-12-31,159.0,Nigeria,23014,Food price inflation,7012.0,December,2002.0,2002,%,13.136731,Fc,
+745,NGA,2003-12-01,2003-12-31,159.0,Nigeria,23014,Food price inflation,7012.0,December,2003.0,2003,%,6.183590,Fc,
+746,NGA,2004-12-01,2004-12-31,159.0,Nigeria,23014,Food price inflation,7012.0,December,2004.0,2004,%,14.312195,Fc,
+747,NGA,2005-12-01,2005-12-31,159.0,Nigeria,23014,Food price inflation,7012.0,December,2005.0,2005,%,16.141720,Fc,
+748,NGA,2006-12-01,2006-12-31,159.0,Nigeria,23014,Food price inflation,7012.0,December,2006.0,2006,%,3.952096,Fc,
+749,NGA,2007-12-01,2007-12-31,159.0,Nigeria,23014,Food price inflation,7012.0,December,2007.0,2007,%,8.568548,Fc,
+750,NGA,2008-12-01,2008-12-31,159.0,Nigeria,23014,Food price inflation,7012.0,December,2008.0,2008,%,17.628333,Fc,
+751,NGA,2009-12-01,2009-12-31,159.0,Nigeria,23014,Food price inflation,7012.0,December,2009.0,2009,%,15.809653,Fc,
+752,NGA,2010-12-01,2010-12-31,159.0,Nigeria,23014,Food price inflation,7012.0,December,2010.0,2010,%,12.463486,Fc,
+753,NGA,2011-12-01,2011-12-31,159.0,Nigeria,23014,Food price inflation,7012.0,December,2011.0,2011,%,10.649351,Fc,
+754,NGA,2012-12-01,2012-12-31,159.0,Nigeria,23014,Food price inflation,7012.0,December,2012.0,2012,%,10.250391,Fc,
+755,NGA,2013-12-01,2013-12-31,159.0,Nigeria,23014,Food price inflation,7012.0,December,2013.0,2013,%,9.219304,Fc,
+756,NGA,2014-12-01,2014-12-31,159.0,Nigeria,23014,Food price inflation,7012.0,December,2014.0,2014,%,9.103905,Fc,
+757,NGA,2015-12-01,2015-12-31,159.0,Nigeria,23014,Food price inflation,7012.0,December,2015.0,2015,%,10.565813,Fc,
+758,NGA,2016-12-01,2016-12-31,159.0,Nigeria,23014,Food price inflation,7012.0,December,2016.0,2016,%,17.216117,Fc,
+759,NGA,2017-12-01,2017-12-31,159.0,Nigeria,23014,Food price inflation,7012.0,December,2017.0,2017,%,19.389065,Fc,
+760,NGA,2018-12-01,2018-12-31,159.0,Nigeria,23014,Food price inflation,7012.0,December,2018.0,2018,%,13.513450,Fc,
+761,NGA,2019-12-01,2019-12-31,159.0,Nigeria,23014,Food price inflation,7012.0,December,2019.0,2019,%,14.584065,Fc,
+762,NGA,2020-12-01,2020-12-31,159.0,Nigeria,23014,Food price inflation,7012.0,December,2020.0,2020,%,19.434766,Fc,
