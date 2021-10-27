@@ -5,3 +5,7 @@ This model was created to model the market system for local rice in Borno State,
 The initial model was developed with the International Committee of the Red Cross. Further development has been undertaken independently by myself. 
 
 The model has not been fully updated, and does not work as a webapp yet. 
+
+## Running the model
+
+To run the model, run app.py.
